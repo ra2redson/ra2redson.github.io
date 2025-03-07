@@ -15,3 +15,13 @@ extra:
     lang: en
 theme:
   name: material
+palette:
+    - scheme: default  # Chế độ sáng mặc định
+      toggle:
+        icon: material/weather-night  # Icon mặt trăng
+        name: Chuyển sang chế độ tối
+    - scheme: slate  # Chế độ tối
+      toggle:
+        icon: material/weather-sunny  # Icon mặt trời
+        name: Chuyển sang chế độ sáng
+        
