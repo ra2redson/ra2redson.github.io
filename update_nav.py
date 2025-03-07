@@ -5,7 +5,6 @@ MKDOCS_YML = "mkdocs.yml"
 DOCS_DIR = "docs"
 
 def generate_nav():
-    """Tạo danh sách điều hướng (nav) dựa trên các file trong thư mục docs."""
     nav = []
     languages = ["eng", "vi"]
 
@@ -25,7 +24,6 @@ def generate_nav():
     return nav
 
 def update_mkdocs_yml():
-    """Cập nhật file mkdocs.yml với danh sách nav mới."""
     with open(MKDOCS_YML, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
 
