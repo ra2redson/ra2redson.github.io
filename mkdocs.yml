@@ -10,7 +10,7 @@ extra:
     - name: 🇬🇧 English
       link: /eng/
       lang: en
-  theme:
+theme:
   name: material
   palette:
   - scheme: default
