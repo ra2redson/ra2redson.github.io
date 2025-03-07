@@ -7,7 +7,6 @@ nav:
     Index: eng/index.md
 - Vi:
     Index: vi/index.md
-
-extra:
+extra: null
 footer:
-   lang_switcher: true
+  lang_switcher: true
