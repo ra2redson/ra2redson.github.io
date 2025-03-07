@@ -1,29 +1,26 @@
 site_name: Ra2 SuperHero Redson V2.0
-
 nav:
-  - Eng:
-      - About: eng/about.md
-      - Index: eng/index.md
-  - Vi:
-      - Index: vi/index.md
-
+- Eng:
+    About: eng/about.md
+    Index: eng/index.md
+- Vi:
+    Index: vi/index.md
 extra:
   alternate:
-    - name: "🇻🇳 Tiếng Việt"
-      link: /vi/
-      lang: vi
-    - name: "🇬🇧 English"
-      link: /en/
-      lang: en
-
+  - name: 🇻🇳 Tiếng Việt
+    link: /vi/
+    lang: vi
+  - name: 🇬🇧 English
+    link: /en/
+    lang: en
 theme:
   name: material
   palette:
-    - scheme: default  # Chế độ sáng mặc định
-      toggle:
-        icon: material/weather-night  # Icon mặt trăng
-        name: Chuyển sang chế độ tối
-    - scheme: slate  # Chế độ tối
-      toggle:
-        icon: material/weather-sunny  # Icon mặt trời
-        name: Chuyển sang chế độ sáng
+  - scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Chuyển sang chế độ tối
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Chuyển sang chế độ sáng
