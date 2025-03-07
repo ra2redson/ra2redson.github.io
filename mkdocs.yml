@@ -7,7 +7,7 @@ extra:
       link: /vi/
       lang: vi
     - name: 🇬🇧 English
-      link: /
+      link: /eng/
       lang: en
 theme:
   language: vi 
