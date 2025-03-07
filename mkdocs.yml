@@ -15,7 +15,8 @@ extra:
     - name: 🇬🇧 English
       link: /eng/
       lang: en
-
+extra_css:
+  - overrides/extra.css
 theme:
   name: material
   theme:
