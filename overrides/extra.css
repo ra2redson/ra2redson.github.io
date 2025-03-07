@@ -1,0 +1,4 @@
+.md-nav__item [data-md-title="Tiếng Việt"],
+.md-nav__item [data-md-title="English"] {
+    display: none !important;
+}
