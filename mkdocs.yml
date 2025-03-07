@@ -7,11 +7,12 @@ nav:
     Index: vi/index.md
 extra:
   alternate:
-  - name: English
-    link: /en/
-    lang: en
   - name: Tiếng Việt
     link: /vi/
     lang: vi
+  - name: English
+    link: /eng/
+    lang: en
+
 theme:
   name: material
