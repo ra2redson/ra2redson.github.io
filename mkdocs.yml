@@ -1,7 +1,12 @@
 site_name: Ra2 SuperHero Redson V2.0
 
 nav:
-  - index.md
+  - hidden: true  # Ẩn luôn nhóm Tiếng Việt và English
+  - Tiếng Việt:
+      - Giới Thiệu: vi/index.md
+  - English:
+      - Information: eng/index.md
+
 
 extra:
   alternate:
