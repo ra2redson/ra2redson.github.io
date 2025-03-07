@@ -2,20 +2,17 @@ site_name: Ra2 SuperHero Redson V2.0
 theme:
   name: material
   features:
-    - i18n        # Kích hoạt hỗ trợ i18n
-    - lang_switcher  # Kích hoạt lang_switcher
-
+  - i18n
+  - lang_switcher
 nav:
-  - About:
-      - eng/about.md
-      - vi/about.md
-  - Index:
-      - eng/index.md
-      - vi/index.md
-
+- Eng:
+    About: eng/about.md
+    Index: eng/index.md
+- Vi:
+    Index: vi/index.md
 extra:
   i18n:
     default_language: en
     languages:
-      - en
-      - vi
+    - en
+    - vi
