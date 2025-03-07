@@ -1,5 +1,4 @@
 site_name: Ra2 SuperHero Redson V2.0
-language: en  # Ngôn ngữ mặc định
   features:
     - navigation.tabs  # Bật tab ngôn ngữ
     - navigation.instant
