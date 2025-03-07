@@ -1,9 +1,7 @@
 site_name: Ra2 SuperHero Redson V2.0
 
 nav:
-  - Tiếng Việt:
       - Giới Thiệu: vi/index.md
-  - English:
       - Information: eng/index.md
 
 extra:
@@ -19,12 +17,6 @@ theme:
   name: material
   theme:
   name: material
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
   palette:
   - scheme: default
     toggle:
