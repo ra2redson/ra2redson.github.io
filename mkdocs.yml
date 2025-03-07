@@ -5,6 +5,7 @@ nav:
     Index: eng/index.md
 - Vi:
     Index: vi/index.md
+    Infovi: vi/infovi.md
 extra:
   alternate:
   - name: 🇻🇳 Tiếng Việt
