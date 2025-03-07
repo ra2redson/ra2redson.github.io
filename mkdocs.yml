@@ -7,10 +7,10 @@ nav:
     Index: vi/index.md
 extra:
   alternate:
-  - name: 🇻🇳 Tiếng Việt
+    - name: '<img src="https://flagcdn.com/w40/vn.png" alt="Tiếng Việt" style="height: 16px;"> Tiếng Việt'
     link: /vi/
     lang: vi
-  - name: 🇬🇧 English
+    - name: '<img src="https://flagcdn.com/w40/gb.png" alt="English" style="height: 16px;"> English'
     link: /en/
     lang: en
 theme:
