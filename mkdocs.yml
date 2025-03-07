@@ -1,14 +1,16 @@
 nav:
-  - Home: index.md
-
+- Eng:
+    About: eng/about.md
+    Index: eng/index.md
+- Vi:
+    Index: vi/index.md
 theme:
   name: material
-
 extra:
   alternate:
-    - name: English
-      link: /en/
-      lang: en
-    - name: Tiếng Việt
-      link: /vi/
-      lang: vi
+  - name: English
+    link: /en/
+    lang: en
+  - name: Tiếng Việt
+    link: /vi/
+    lang: vi
