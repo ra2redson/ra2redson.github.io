@@ -1,18 +1,14 @@
-site_name: Ra2 SuperHero Redson V2.0
+nav:
+  - Home: index.md
+
 theme:
   name: material
-  features:
-  - i18n
-  - lang_switcher
-nav:
-- Eng:
-    About: eng/about.md
-    Index: eng/index.md
-- Vi:
-    Index: vi/index.md
+
 extra:
-  i18n:
-    default_language: en
-    languages:
-    - en
-    - vi
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Tiếng Việt
+      link: /vi/
+      lang: vi
