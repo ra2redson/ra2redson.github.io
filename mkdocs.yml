@@ -1,10 +1,20 @@
 site_name: Ra2 SuperHero Redson V2.0
 
+  language: en  # Ngôn ngữ mặc định
+  features:
+    - navigation.tabs  # Bật tab ngôn ngữ
+    - navigation.instant
+    - navigation.tracking
+
 nav:
-
+  - Tiếng Việt:
       - Giới Thiệu: vi/index.md
-
+      - Siêu Anh Hùng: vi/hero.md
+      - Tải Xuống: vi/download.md
+  - English:
       - Information: eng/index.md
+      - Heroes: eng/hero.md
+      - Download: eng/download.md
 
 
 extra:
