@@ -1,17 +1,20 @@
 site_name: Ra2 SuperHero Redson V2.0
+
 nav:
- - Tiếng Việt:
+  - Tiếng Việt:
       - Giới Thiệu: vi/index.md
   - English:
-      - Infomation: eng/index.md
+      - Information: eng/index.md
+
 extra:
   alternate:
-  - name: 🇻🇳 Tiếng Việt
-    link: /vi/
-    lang: vi
-  - name: 🇬🇧 English
-    link: /eng/
-    lang: en
+    - name: 🇻🇳 Tiếng Việt
+      link: /vi/
+      lang: vi
+    - name: 🇬🇧 English
+      link: /eng/
+      lang: en
+
 theme:
   name: material
   palette:
