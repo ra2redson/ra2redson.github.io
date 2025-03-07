@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    if (document.documentElement.lang === "en") {
+      let translations = {
+        "Giới Thiệu": "Introduction",
+        "Siêu Anh Hùng": "Superheroes",
+        "Tải Xuống": "Download",
+        "Thor": "Thor",
+        "Superman": "Superman"
+      };
+      document.querySelectorAll(".md-nav__link").forEach(item => {
+        let text = item.textContent.trim();
+        if (translations[text]) {
+          item.innerHTML = translations[text]; // Dịch tự động
+        }
+      });
+    }
+  });
+</script>
+{% endblock %}
