@@ -1,8 +1,4 @@
 site_name: Ra2 SuperHero Redson V2.0
-  features:
-    - navigation.tabs  # Bật tab ngôn ngữ
-    - navigation.instant
-    - navigation.tracking
 nav:
   - Giới Thiệu: vi/index.md
   - Information: eng/index.md
