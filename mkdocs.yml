@@ -4,3 +4,5 @@ theme:
 nav:
 - Eng:
     About: eng/about.md
+- Vi:
+    Index: vi/index.md
