@@ -17,6 +17,11 @@ extra:
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs  # Chuyển tab theo ngôn ngữ
+    - navigation.tabs.sticky
   palette:
   - scheme: default
     toggle:
