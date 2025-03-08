@@ -6,4 +6,4 @@ Nguyễn Hoàng Anh
 
 Facebook Cá Nhân : [HOANGOPPA](https://www.facebook.com/94banhxeo/)
 
-Email Cá Nhân : [GMAIL](mrsolo.bdu@gmail.com)
+Email Cá Nhân : [GMAIL](mailto:mrsolo.bdu@gmail.com)
