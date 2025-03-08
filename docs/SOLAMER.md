@@ -35,3 +35,40 @@ Phần đầu tách rời của **GigaFortress**, không chỉ là **một trụ
 - **Tia Hủy Diệt Trời Cao 🔥⚡** – Từ đỉnh đầu, GigaFortress phóng ra **một luồng laser mạnh mẽ**, tiêu diệt **máy bay và các mục tiêu trên không** chỉ trong nháy mắt.
 - **Tia Hủy Diệt Địa Ngục 🔥💀** – Từ miệng, GigaFortress khai hỏa **tia laser quét mặt đất**, san bằng **bộ binh, xe tăng và công trình trong vùng ảnh hưởng**.
 - **Vùng Năng Lượng Hợp Nhất ☢️🔄** – Một vùng năng lượng đặc biệt giúp **GigaFortress có thể khai hỏa mà không cần năng lượng**, miễn là **phần đầu và phần vòng năng lượng còn hoạt động cùng nhau**. Nếu **một trong hai bị phá hủy, phần còn lại cũng sẽ sụp đổ**!
+  <br><br><br>  <!-- Thêm khoảng trống -->
+
+**Super Tesla Coil – Cơn Cuồng Nộ Điện Tử**
+
+Là phiên bản **nâng cấp tối thượng** của Tesla Coil thông thường, **Super Tesla Coil** mang trong mình **sức mạnh hủy diệt gấp 10 lần**, với khả năng **tấn công cả trên không và mặt đất**!
+
+**Kỹ năng:**
+
+- **Sét Thần Công 🔥⚡** – Giải phóng **tia sét khổng lồ**, **xuyên thủng giáp trụ** và **gây sát thương lan rộng**, biến cả đội quân địch thành **đống phế liệu cháy khét**.
+- **Lưới Điện Trời Cao 🌩️✈️** – Khác với Tesla Coil thông thường, Super Tesla Coil **có thể tấn công cả máy bay**, tạo ra **cơn bão điện xé toạc bầu trời**.
+  <br><br><br>  <!-- Thêm khoảng trống -->
+
+**Obelisk – Cột Trụ Ma Thuật Của Yuri**
+
+Một vũ khí **đỉnh cao của công nghệ tâm linh**, **Obelisk** tích tụ **năng lượng hắc ám** và giải phóng nó thành **một tia laser cực mạnh**, **xuyên thủng mọi lớp giáp** và **bốc hơi kẻ địch chỉ trong tích tắc**.
+
+**Kỹ năng:**
+
+- **Tia Hủy Diệt Cường Hóa 🔥🔮** – Tích tụ **năng lượng ma thuật**, sau đó **phóng ra một luồng laser khổng lồ**, **gây sát thương cực lớn** lên mục tiêu.
+  <br><br><br>  <!-- Thêm khoảng trống -->
+
+**Patriot Missile – Lá Chắn Hỏa Lực Siêu Chính Xác**
+
+Một hệ thống **tên lửa siêu cấp**, **Patriot Missile** không chỉ **tấn công mục tiêu với sức công phá khổng lồ**, mà còn có thể **rượt đuổi kẻ địch cho đến khi tiêu diệt hoàn toàn**!
+
+**Kỹ năng:**
+
+- **Tên Lửa Định Hướng 🎯💥** – Bắn **các tên lửa siêu tốc**, **tự động tìm mục tiêu**, **xé toạc máy bay, xe tăng và cả bộ binh** trong phạm vi rộng lớn.
+  <br><br><br>  <!-- Thêm khoảng trống -->
+
+**Dragon House – Ngôi Nhà Của Hỏa Long**
+
+Một công trình **bí ẩn và đầy quyền năng**, **Dragon House** không chỉ là một trụ phòng thủ, mà còn là **nơi luyện rồng thuật**, triệu hồi **hơi thở rồng** để **thiêu rụi mọi kẻ địch đến gần**!
+
+**Kỹ năng:**
+
+- **Hơi Thở Rồng Lửa 🔥🐉** – Gọi ra **một luồng mưa hoả lực từ trên cao**, **đốt cháy cả đội quân địch** chỉ trong vài giây.
