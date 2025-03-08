@@ -1,22 +1,24 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const langSwitcher = document.querySelectorAll(".lang-switch"); // Chọn các nút chuyển ngôn ngữ
-    if (!langSwitcher) return;
+    console.log("Language switch script loaded!");
 
-    langSwitcher.forEach(button => {
+    document.querySelectorAll(".lang-switch").forEach(button => {
       button.addEventListener("click", function (event) {
         event.preventDefault();
         
-        // Lấy đường dẫn hiện tại, bỏ domain
         let currentPath = window.location.pathname;
+        console.log("Current path:", currentPath);
 
-        // Xác định đang ở tiếng Anh hay Tiếng Việt
         const isEnglish = currentPath.startsWith("/eng/");
 
-        // Xóa "/eng/" nếu đang ở English để lấy trang tương ứng
-        let targetPath = isEnglish ? currentPath.replace("/eng/", "/") : "/eng" + currentPath;
+        // Lấy tên trang hiện tại (VD: `/news/` hoặc `/about/`)
+        let pageName = currentPath.replace(/^\/eng\//, "/").replace(/^\//, "");
+        console.log("Page name:", pageName);
 
-        // Chuyển trang
+        // Xây dựng đường dẫn chuyển đổi ngôn ngữ
+        let targetPath = isEnglish ? `/${pageName}` : `/eng/${pageName}`;
+        
+        console.log("Switching to:", targetPath);
         window.location.href = targetPath;
       });
     });
