@@ -30,8 +30,8 @@ jobs:
         run: mkdocs build --config-file mkdocs.yml  # Build Tiếng Việt vào `site/`
 
       - name: Build MkDocs site (English)
-        run: mkdocs build --config-file docs/eng/mkdocs.yml --site-dir ./site_eng  # ✅ Sửa lỗi site_dir
-
+        run: mkdocs build --config-file mkdocs_eng.yml --site-dir site/eng
+        
       - name: Merge English site into main site folder
         run: |
           mkdir -p site/eng
