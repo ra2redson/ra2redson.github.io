@@ -15,8 +15,8 @@ Kỹ năng:
 
 Kỹ năng: 
 
-- **Quăng Khiên** 🛡️: *Ném chiếc khiên Vibranium với độ chính xác cao, khiến nó bật nảy liên tiếp giữa nhiều kẻ địch trước khi quay về tay. Đòn tấn công này không chỉ gây sát thương mà còn làm choáng mục tiêu.*
-- **Cú Đấm Mạnh** 👊: *Tập trung toàn bộ sức mạnh siêu chiến binh vào một cú đấm hủy diệt, đủ để hạ gục xe cộ và kẻ thù được trang bị giáp nặng.*
+- **Quăng Khiên** 🛡️: *Ném chiếc khiên Vibranium với độ chính xác cao, khiến nó bật nảy liên tiếp giữa nhiều kẻ địch trước khi quay về tay. Đòn tấn công này gây sát thương cực mạnh lên mục tiêu.*
+- **Cú Đấm Mạnh** 👊: *Tập trung toàn bộ sức mạnh siêu chiến binh vào một cú đấm mạnh mẽ, đủ để hạ gục xe cộ và kẻ thù được trang bị giáp nặng.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
 <span style="font-size: 24px; font-weight: bold;">HÀN QUỐC</span>
@@ -37,7 +37,7 @@ Với khả năng hồi phục đáng kinh ngạc và phong cách chiến đấu
 Kỹ năng:
 
 - **Bắn Đạn Liên Thanh** 🔫: *Sử dụng hai khẩu súng ngắn, xả đạn với tốc độ chóng mặt, gây sát thương nhanh và liên tục lên mục tiêu.*
-- **Phi Kiếm** ⚔️: *Ném thanh katana sắc bén với tốc độ cao, xuyên thủng kẻ địch và gây sát thương lớn. Kiếm có thể quay lại hoặc trúng nhiều mục tiêu nếu nâng cấp.*
+- **Phi Kiếm** ⚔️: *Ném thanh katana sắc bén với tốc độ cao, xuyên thủng kẻ địch và gây sát thương lớn. Kiếm có thể phóng xa hơn nếu được nâng cấp.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
 <span style="font-size: 24px; font-weight: bold;">NƯỚC ANH</span>
@@ -91,8 +91,8 @@ Thor, vị thần sấm sét mạnh mẽ, điều khiển sức mạnh của bã
 
 Kỹ năng:
 
-- **Gọi Sét** ⚡🌩️: *Triệu hồi sấm sét tấn công một vùng lớn, gây sát thương mạnh lên tất cả kẻ địch trong khu vực.*
-- **Thiên Lôi Phán Xét** ☄️⚡: *Trên không trung, 5 tia sét giáng xuống cùng lúc, đánh trúng các mục tiêu ngẫu nhiên. Dưới mặt đất, 9 đạo tia sét lớn di chuyển và quét sạch chiến trường.*
+- **Lôi Phạt** ⚡🌩️: *Triệu hồi sấm sét tấn công một vùng lớn, gây sát thương mạnh lên tất cả kẻ địch trong khu vực.*
+- **Lôi Động Cửu Thiên** ☄️⚡: *Trên không trung, 5 tia sét giáng xuống cùng lúc, đánh trúng các mục tiêu ngẫu nhiên. Dưới mặt đất, 9 đạo tia sét lớn di chuyển và quét sạch chiến trường.*
 
 **Yuri** – Thiên thần người máy gieo rắc hủy diệt
 
@@ -101,7 +101,7 @@ Yuri không còn là con người, mà đã tiến hóa thành một thực th�
 Kỹ năng:
 
 - **Thiên Thần Cơ Giới** 🤖👼: *Bay lượn trên cao, né tránh hầu hết các đòn tấn công trong khi tìm kiếm mục tiêu.*
-- **Mưa Sao Băng** ☄️💥: *Gọi hàng loạt thiên thạch từ không gian lao xuống chiến trường, phá hủy các đơn vị và công trình trong phạm vi rộng.*
+- **Mưa Sao Băng** ☄️💥: *Gọi cơn mưa sao từ không gian lao xuống chiến trường, phá hủy các đơn vị và công trình trong phạm vi rộng.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
 <span style="font-size: 24px; font-weight: bold;">CANADA</span>
