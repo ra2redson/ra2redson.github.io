@@ -64,3 +64,32 @@ Một cỗ máy chiến tranh **bay lượn trên bầu trời**, **Giga Fortres
 
 - **Ion Beam Hủy Diệt ⚡🔫** – *Khai hỏa **tia Ion Beam cường độ cao**, **xuyên thủng giáp trụ**, san phẳng **cả một thành phố.*
 - **Hạm Đội Không Người Lái ✈️🔥** – *Triệu hồi một **đội hình máy bay không người lái**, lao xuống **tấn công mục tiêu bằng bom và đạn pháo**, biến chiến trường thành **địa ngục**.*
+
+<span style="font-size: 24px; font-weight: bold;">Epic Unit Ẩn - kích hoạt thông qua SPY thâm nhập nhà TECHLAB của phe Đồng Minhm chỉ khả dụng khi đang chơi Nhật Bản</span>
+
+**Wave-Force Artillery – Pháo Sóng Xung Kích**
+
+Một khẩu pháo năng lượng **tối tân**, Wave-Force Artillery **không cần đạn dược – nó bắn ra sóng xung kích có thể xé toạc cả chiến trường**.
+
+**Kỹ năng: (3 loại chuyển đổi thông qua D)**
+
+- **Sóng Xung Kích Tối Thượng ⚡💀** – *Tích tụ năng lượng rồi bắn ra một **luồng sóng hủy diệt**, **xuyên giáp** và **thổi bay toàn bộ quân địch trong tầm bắn**.*
+- **Bắn Liên Hoàn 🔄🔥** – *Tăng tốc độ bắn, xả liên tục **những xung kích nhỏ hơn**, quét sạch **từng lớp phòng thủ của đối phương**.*
+- **Tạo Kình Lực Chấn Động 🔄🔥** – *Tăng tốc độ hồi phục cho bản thân, đồng thời gây damage xung quanh, tuy nhiên nếu ko deloy lại các biến thể khác nhanh chóng sẽ phát nổ.*
+
+**Harbinger Gunship – Pháo Đài Bay Hủy Diệt**
+
+Một máy bay chiến đấu **được trang bị hỏa lực kinh hoàng**, Harbinger Gunship **tung hoành trên chiến trường như sứ giả tận thế**, biến mọi kẻ địch dưới mặt đất thành **tro bụi**.
+
+**Kỹ năng:**
+
+- **Oanh Tạc Không Ngừng 🚀🔥** – *Phóng ra **hàng loạt bom và đạn pháo**, san bằng **cả căn cứ chỉ trong vài giây**.*
+- **Bắn Pháo Gauss ⚡🔫** – *Khai hỏa **pháo điện từ công suất cao**, **xuyên thủng giáp trụ** và **xóa sổ xe tăng, robot khổng lồ chỉ trong một phát bắn**.*
+
+**Cryocopter – Trực Thăng Đóng Băng**
+
+Một máy bay chiến thuật **không tấn công trực tiếp**, nhưng lại **biến quân địch thành tượng băng**, khiến chúng **bất lực trước mọi đòn đánh**.
+
+**Kỹ năng:**
+
+- **Tia Đông Cứng ❄️🔫** – *Bắn ra một **luồng băng siêu lạnh**, làm **đóng băng kẻ địch và phương tiện**, khiến chúng **không thể di chuyển hoặc tấn công**.*
