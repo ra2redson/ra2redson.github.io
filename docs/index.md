@@ -33,8 +33,8 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
     padding: 8px 24px;
     font-size: 18px;
     font-weight: bold;
-    color: white;
-    background: linear-gradient(45deg, #00c6ff, #0072ff);
+    color: #ffffff;
+    background: linear-gradient(45deg, #1de9b6, #1dc4e9);
     border-radius: 4px;
     text-decoration: none;
     transition: 0.3s ease-in-out;
@@ -42,7 +42,7 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
   }
 
   .download-btn:hover {
-    background: linear-gradient(45deg, #ff4b2b, #ff416c);
+    background: linear-gradient(45deg, #1de9b6, #1dc4e9);
     transform: scale(1.02);
     box-shadow: 0 3px 8px rgba(0, 114, 255, 0.4);
   }
