@@ -18,6 +18,6 @@
   
 - *Âm nhạc 4 phe được bổ sung, nhiều bài mới, và mỗi phe mỗi thư viện nhạc khác nhau, nâng cao phút giây cảm xúc cùng game.*
   
-- *Game được chạy trên Client CNC MOD Base, có thể chơi Online, Offline LAN.*
+- *Game được chạy trên Client CNC MOD Base, có thể chơi Online, Offline LAN, có nhiều Option tuỳ chỉnh mới.*
   
 - *Cùng một số tinh chỉnh khác...*
