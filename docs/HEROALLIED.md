@@ -1,4 +1,4 @@
-<span style="font-size: 34px; font-weight: bold;">NƯỚC MỸ</span>
+<span style="font-size: 24px; font-weight: bold;">NƯỚC MỸ</span>
 
 **Iron Man** – Biểu tượng của sức mạnh công nghệ, khoác lên mình bộ giáp chiến đấu tiên tiến nhất. Không chỉ sở hữu khả năng bay lượn linh hoạt, anh còn trang bị hỏa lực cực mạnh, có thể tiêu diệt nhiều mục tiêu cùng lúc.
 
@@ -15,7 +15,7 @@ Kỹ năng:
 - **Cú Đấm Mạnh** 👊: *Tập trung toàn bộ sức mạnh siêu chiến binh vào một cú đấm hủy diệt, đủ để hạ gục xe cộ và kẻ thù được trang bị giáp nặng.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
-HÀN QUỐC
+<span style="font-size: 24px; font-weight: bold;">HÀN QUỐC</span>
 
 **Serious Sam** – Chiến binh diệt quái không khoan nhượng
 
@@ -36,7 +36,7 @@ Kỹ năng:
 - **Phi Kiếm** ⚔️: *Ném thanh katana sắc bén với tốc độ cao, xuyên thủng kẻ địch và gây sát thương lớn. Kiếm có thể quay lại hoặc trúng nhiều mục tiêu nếu nâng cấp.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
-NƯỚC ANH
+<span style="font-size: 24px; font-weight: bold;">NƯỚC ANH</span>
 
 **Sam Fisher** – Bậc thầy ám sát và tác chiến ngầm
 
@@ -59,7 +59,7 @@ Kỹ năng:
 - **Gọi Nhiều Quả Cầu Năng Lượng** 🔮: *Triệu hồi một loạt cầu năng lượng, tự động truy đuổi và tấn công đám đông kẻ địch, gây sát thương diện rộng.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
-NƯỚC PHÁP
+<span style="font-size: 24px; font-weight: bold;">NƯỚC PHÁP</span>
 
 **Duke Nukem** – Chiến binh bất diệt với hỏa lực mạnh mẽ
 
@@ -79,7 +79,7 @@ Kỹ năng:
 - **Bắn Tia EMP** ⚡: *Sử dụng xung điện từ làm tê liệt xe cộ, tháp phòng thủ và hệ thống điện tử của kẻ địch trong một khoảng thời gian ngắn, mở đường cho cuộc tấn công.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
-NƯỚC ĐỨC
+<span style="font-size: 24px; font-weight: bold;">NƯỚC ĐỨC</span>
 
 **Thor** – Thần sấm quyền năng của chiến trường
 
@@ -100,7 +100,7 @@ Kỹ năng:
 - **Mưa Sao Băng** ☄️💥: *Gọi hàng loạt thiên thạch từ không gian lao xuống chiến trường, phá hủy các đơn vị và công trình trong phạm vi rộng.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
-CANADA
+<span style="font-size: 24px; font-weight: bold;">CANADA</span>
 
 **Deadshot** – Sát thủ bách phát bách trúng
 
@@ -121,7 +121,7 @@ Kỹ năng:
 - **Siêu Sức Bền** 🏋️‍♂️🛡️: *Khả năng chịu đựng phi thường giúp Hulk giảm đáng kể sát thương nhận vào, gần như không thể bị hạ gục trong thời gian ngắn.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
-NHẬT BẢN
+<span style="font-size: 24px; font-weight: bold;">NHẬT BẢN</span>
 
 **Yuriko Omega** – Vũ khí tâm linh hủy diệt
 
