@@ -1,14 +1,34 @@
 site_name: Ra2 SuperHero Redson V2.0
 nav:
   - Giới Thiệu: index.md
+  - Có gì mới ?: NEWS.md
+  - Siêu Anh Hùng:
+    - Phe Đồng Minh: HEROALLIED.md
+    - Phe Soviet: HEROSOVIET.md
+    - Phe Yuri: HEROYURI.md
+    - Phe Asian: HEROASIAN.md
+    - Đặc Biệt: HEROSPECIAL.md
+  - Siêu Người Máy:
+    - Phe Đồng Minh: EPICALLIED.md
+    - Phe Soviet: EPICSOVIET.md
+    - Phe Yuri: EPICYURI.md
+    - Phe Asian: EPICASIAN.md
+  - Trụ Siêu Cấp: SOLAMER.md
+  - Siêu Vũ Khí Chính: SW.md
+  - Siêu Vũ Khí Phụ: SWMINI.md
+  - Hướng Dẫn Client: CLIENT.md
+  - Thông Tin Tác Giả: INFO.md
+  - DONATE: DONATE.md
 extra:
   alternate:
     - name: 🇻🇳 Tiếng Việt
       link: /
       lang: vi
+      class: lang-switch
     - name: 🇬🇧 English
       link: /eng/
       lang: en
+      class: lang-switch
 theme:
   language: vi 
   name: material
