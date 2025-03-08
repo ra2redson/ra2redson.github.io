@@ -16,3 +16,13 @@ Một siêu người máy chiến đấu **tàn bạo**, được trang bị đ�
 
 - **Súng Phun Lửa 🔥🔥**: *Phóng ra luồng lửa **thiêu rụi tất cả kẻ địch trước mặt**, biến chiến trường thành địa ngục.*
 - **Bắn Đạn Liên Thanh 🔫💨**: *Một khẩu súng máy **xả đạn với tốc độ kinh hoàng**, xé nát mọi đối thủ trong giây lát.*
+  <br><br><br>  <!-- Thêm khoảng trống -->
+  
+**Super Tesla Tank** ⚡(RUSSIAN)
+
+Super Tesla Tank là phiên bản nâng cấp của Tesla Tank, được trang bị hai tháp pháo điện cực mạnh. Với khả năng bắn ra các tia sét cường độ cao, nó có thể **gây sát thương lan** và **làm tê liệt kẻ địch** trong thời gian ngắn.
+
+🛠 **Kỹ năng:**
+
+- **Dual Tesla Cannons** ⚡⚡ – Bắn hai tia sét cùng lúc, gây sát thương lớn lên mục tiêu và lan sang các đơn vị gần đó.
+- **BUFF SOVIET** 🔵 – Tạo 1 vùng buff cho đồng minh, tăng giáp cùng chỉ số ROF**.
