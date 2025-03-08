@@ -17,7 +17,7 @@ Một cỗ máy **khổng lồ**, mang trong mình **ý chí tự do và hủy d
 - **Bắn Laser Từ Mắt 🔥👁️**: *Một tia **năng lượng đỏ rực**, có thể **xuyên thủng thép, phá hủy xe tăng và thổi bay cả một tòa nhà** chỉ trong một lần khai hỏa.*
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Shogun Executioner – Đao Phủ Lạnh Giá**
+**Shogun Executioner – Đao Phủ Lạnh Giá** (Nhật Bản)
 
 Một chiến thần **khổng lồ** mang sức mạnh hủy diệt, **Shogun Executioner** là hiện thân của **cái chết lạnh lẽo**. Bất cứ ai đối mặt với hắn đều sẽ bị **đóng băng và hủy diệt** chỉ trong tích tắc.
 
@@ -27,7 +27,7 @@ Một chiến thần **khổng lồ** mang sức mạnh hủy diệt, **Shogun E
 - **Nhát Chém Hủy Diệt ⚔️💥**: *Vung thanh kiếm khổng lồ với **sức mạnh xé toạc giáp trụ**, **cắt đôi kẻ địch chỉ trong một đòn**.*
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Steel Ronin – Chiến Binh Giáp Sắt**
+**Steel Ronin – Chiến Binh Giáp Sắt** (Nhật Bản)
 
 Là chiến binh **bất khả xâm phạm**, Steel Ronin mang bộ giáp **bền vững như thép**, sẵn sàng **lao vào chiến trường và chém gục mọi kẻ địch** bằng sức mạnh tuyệt đối.
 
@@ -37,7 +37,7 @@ Là chiến binh **bất khả xâm phạm**, Steel Ronin mang bộ giáp **bề
 - **Giáp Sắt Bất Hoại 🛡️🔩**: *Bộ giáp siêu cường giúp **Steel Ronin chống chịu sát thương khủng khiếp**, trở thành bức tường thép di động.*
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**King Oni – Chúa Quỷ Hủy Diệt**
+**King Oni – Chúa Quỷ Hủy Diệt** (Nhật Bản)
 
 Một thực thể **khổng lồ**, mang trong mình **sức mạnh của những Oni cổ xưa**. King Oni không chỉ là một chiến binh – hắn là **thảm họa di động**.
 
@@ -47,16 +47,16 @@ Một thực thể **khổng lồ**, mang trong mình **sức mạnh của nhữ
 - **Sức Mạnh Quỷ Vương 💀⚔️**: *Mỗi đòn tấn công của King Oni **tạo ra sóng xung kích**, quét sạch cả đội quân chỉ trong nháy mắt.*
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**King Samurai – Samurai Bóng Tối**
+**King Samurai – Samurai Bóng Tối** (Nhật Bản)
 
 Một chiến binh **bước ra từ bóng tối**, sở hữu những đường kiếm **sát khí lan tỏa như tia chớp**, không ai có thể nhìn thấy **King Samurai** ra tay – chỉ có thể **nhận lấy cái chết**.
 
 **Kỹ năng:**
 
 - **Nhát Chém Điện Lan Tỏa ⚔️⚡**: *Mỗi nhát kiếm không chỉ cắt gục kẻ thù **mà còn phóng ra luồng điện lan truyền**, khiến **cả đội hình địch bị tê liệt**.*
-- **Hóa Thân Bóng Tối 🌑👥**: *King Samurai có thể **biến mất vào bóng tối**, xuất hiện bất ngờ phía sau đối thủ và kết liễu ngay lập tức.*
+- **Hóa Thân Bóng Tối 🌑👥**: *King Samurai có những phát chém tia sét chí mạng, gây hàng tấn sát thương cho đối thủ.*
 
-**Giga Fortress – Pháo Đài Bay Tận Thế**
+**Giga Fortress – Pháo Đài Bay Tận Thế** (CANADA)
 
 Một cỗ máy chiến tranh **bay lượn trên bầu trời**, **Giga Fortress** không chỉ là một pháo đài – **nó là hiện thân của hủy diệt**. Khi xuất hiện, bầu trời **tối sầm lại**, và mặt đất **run rẩy dưới cơn mưa hỏa lực**.
 
@@ -65,7 +65,7 @@ Một cỗ máy chiến tranh **bay lượn trên bầu trời**, **Giga Fortres
 - **Ion Beam Hủy Diệt ⚡🔫** – *Khai hỏa **tia Ion Beam cường độ cao**, **xuyên thủng giáp trụ**, san phẳng **cả một thành phố.*
 - **Hạm Đội Không Người Lái ✈️🔥** – *Triệu hồi một **đội hình máy bay không người lái**, lao xuống **tấn công mục tiêu bằng bom và đạn pháo**, biến chiến trường thành **địa ngục**.*
 
-<span style="font-size: 24px; font-weight: bold;">Epic Unit Ẩn - kích hoạt thông qua SPY thâm nhập nhà TECHLAB của phe Đồng Minhm chỉ khả dụng khi đang chơi Nhật Bản</span>
+<span style="font-size: 24px; font-weight: bold;">Epic Unit Ẩn - kích hoạt thông qua SPY thâm nhập nhà TECHLAB của phe Đồng Minh, chỉ khả dụng khi đang chơi Nhật Bản</span>
 
 **Wave-Force Artillery – Pháo Sóng Xung Kích**
 
@@ -75,7 +75,7 @@ Một khẩu pháo năng lượng **tối tân**, Wave-Force Artillery **không 
 
 - **Sóng Xung Kích Tối Thượng ⚡💀** – *Tích tụ năng lượng rồi bắn ra một **luồng sóng hủy diệt**, **xuyên giáp** và **thổi bay toàn bộ quân địch trong tầm bắn**.*
 - **Bắn Liên Hoàn 🔄🔥** – *Tăng tốc độ bắn, xả liên tục **những xung kích nhỏ hơn**, quét sạch **từng lớp phòng thủ của đối phương**.*
-- **Tạo Kình Lực Chấn Động 🔄🔥** – *Tăng tốc độ hồi phục cho bản thân, đồng thời gây damage xung quanh, tuy nhiên nếu ko deloy lại các biến thể khác nhanh chóng sẽ phát nổ.*
+- **Tạo Kình Lực Chấn Động 🔄🔥** – *Tăng tốc độ hồi phục cho bản thân, đồng thời gây damage xung quanh, tuy nhiên nếu ko deploy lại các biến thể khác nhanh chóng sẽ phát nổ.*
 
 **Harbinger Gunship – Pháo Đài Bay Hủy Diệt**
 
@@ -84,7 +84,7 @@ Một máy bay chiến đấu **được trang bị hỏa lực kinh hoàng**, H
 **Kỹ năng:**
 
 - **Oanh Tạc Không Ngừng 🚀🔥** – *Phóng ra **hàng loạt bom và đạn pháo**, san bằng **cả căn cứ chỉ trong vài giây**.*
-- **Bắn Pháo Gauss ⚡🔫** – *Khai hỏa **pháo điện từ công suất cao**, **xuyên thủng giáp trụ** và **xóa sổ xe tăng, robot khổng lồ chỉ trong một phát bắn**.*
+- **Bắn Pháo Gauss ⚡🔫** – *Khai hỏa **pháo điện từ công suất cao**, **xuyên thủng giáp trụ** và **xóa sổ xe tăng, robot khổng lồ trong nhiều phát bắn**.*
 
 **Cryocopter – Trực Thăng Đóng Băng**
 
