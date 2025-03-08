@@ -42,8 +42,10 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
   }
 
   .download-btn:hover {
-    background-color: #238636; /* Xanh đậm hơn khi hover */
-    transform: scale(1.02);
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    background-color: #238636;
+    filter: brightness(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+}
+
   }
 </style>
