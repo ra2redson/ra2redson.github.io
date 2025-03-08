@@ -5,6 +5,7 @@ site_dir: site_eng  # Đặt site_dir bên ngoài docs_dir
 
 nav:
   - Info: index.md
+  - What News ?: NEWS.md
 extra:
   alternate:
     - name: 🇻🇳 Tiếng Việt
