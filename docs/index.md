@@ -18,44 +18,18 @@ Bản mod này bắt nguồn ý tưởng từ mod **Expandables**, nhưng đã �
 Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng** và chinh phục chiến trường **RA2 SuperHero** chưa? 🚀
 
 👉 **Tải ngay & trải nghiệm!**
-**Phiên Bản Cài Đặt EXE**
-
-<a href="link_tải_game" class="download-btn">
+<!-- Phiên Bản Cài Đặt EXE -->
+<a href="link_tải_game" class="download-btn green-btn">
     <span>⬇ RA2SH.EXE</span>
 </a>
 
-<style>
-  .download-btn {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    padding: 6px 24px;
-    font-size: 18px;
-    font-weight: bold;
-    color: #ffffff !important;
-    background-color: #2ea043;
-    border-radius: 4px;
-    text-decoration: none;
-    transition: 0.3s ease-in-out;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Nhỏ lại */
-  }
-
-  .download-btn:hover {
-    background-color: #238636;
-    filter: brightness(1.1);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
-}
-
-  }
-</style>
-**Phiên Bản Giải Nén ZIP**
-
-<a href="link_tải_game" class="download-btn">
+<!-- Phiên Bản Giải Nén ZIP -->
+<a href="link_tải_game" class="download-btn orange-btn">
     <span>⬇ RA2SH.ZIP</span>
 </a>
 
 <style>
+  /* CSS chung cho nút */
   .download-btn {
     display: inline-flex;
     align-items: center;
@@ -65,18 +39,31 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
     font-size: 18px;
     font-weight: bold;
     color: #ffffff !important;
-    background-color: #f4a261; /* Màu cam nhẹ */
     border-radius: 4px;
     text-decoration: none;
     transition: 0.3s ease-in-out;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Nhỏ lại */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
 
-  .download-btn:hover {
-    background-color: #e76f51; /* Cam đậm hơn khi hover */
+  /* Nút màu xanh lá */
+  .green-btn {
+    background-color: #2ea043;
+  }
+  
+  .green-btn:hover {
+    background-color: #238636;
     filter: brightness(1.1);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
-}
+  }
 
+  /* Nút màu cam */
+  .orange-btn {
+    background-color: #f4a261;
+  }
+
+  .orange-btn:hover {
+    background-color: #e76f51;
+    filter: brightness(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
   }
 </style>
