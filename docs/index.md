@@ -33,8 +33,8 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
     padding: 6px 24px;
     font-size: 18px;
     font-weight: bold;
-    color: #ffffff;
-    background-color: #2ea043
+    color: #ffffff !important;
+    background-color: #2ea043;
     border-radius: 4px;
     text-decoration: none;
     transition: 0.3s ease-in-out;
