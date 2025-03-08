@@ -30,7 +30,7 @@ jobs:
         run: mkdocs build --config-file mkdocs.yml  # Build Tiếng Việt vào `site/`
 
       - name: Build MkDocs site (English)
-        run: mkdocs build --config-file eng/mkdocs.yml --site-dir site/eng  # Build Tiếng Anh vào `site/eng/`
+        run: mkdocs build --config-file docs/eng/mkdocs.yml --site-dir site/eng
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
