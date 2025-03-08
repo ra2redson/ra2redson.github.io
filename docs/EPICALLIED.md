@@ -55,3 +55,12 @@ Một chiến binh **bước ra từ bóng tối**, sở hữu những đường
 
 - **Nhát Chém Điện Lan Tỏa ⚔️⚡**: *Mỗi nhát kiếm không chỉ cắt gục kẻ thù **mà còn phóng ra luồng điện lan truyền**, khiến **cả đội hình địch bị tê liệt**.*
 - **Hóa Thân Bóng Tối 🌑👥**: *King Samurai có thể **biến mất vào bóng tối**, xuất hiện bất ngờ phía sau đối thủ và kết liễu ngay lập tức.*
+
+**Giga Fortress – Pháo Đài Bay Tận Thế**
+
+Một cỗ máy chiến tranh **bay lượn trên bầu trời**, **Giga Fortress** không chỉ là một pháo đài – **nó là hiện thân của hủy diệt**. Khi xuất hiện, bầu trời **tối sầm lại**, và mặt đất **run rẩy dưới cơn mưa hỏa lực**.
+
+**Kỹ năng:**
+
+- **Ion Beam Hủy Diệt ⚡🔫** – *Khai hỏa **tia Ion Beam cường độ cao**, **xuyên thủng giáp trụ**, san phẳng **cả một thành phố.*
+- **Hạm Đội Không Người Lái ✈️🔥** – *Triệu hồi một **đội hình máy bay không người lái**, lao xuống **tấn công mục tiêu bằng bom và đạn pháo**, biến chiến trường thành **địa ngục**.*
