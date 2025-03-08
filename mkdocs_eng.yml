@@ -7,7 +7,6 @@ nav:
   - Info: index.md
   - What News ?: NEWS.md
 extra:
-  custom_dir: overrides
   alternate:
     - name: 🇻🇳 Tiếng Việt
       link: /
