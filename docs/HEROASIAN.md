@@ -1,13 +1,13 @@
 <span style="font-size: 24px; font-weight: bold;">TRIỀU TIÊN</span>
 
-**Houlong – Hậu Nghệ Thần Tiễn**
+**Huolong – Hậu Nghệ Thần Tiễn**
 
-Hậu duệ của **Hậu Nghệ**, bậc thầy xạ tiễn huyền thoại. Houlong không chỉ là một cung thủ xuất sắc mà còn sở hữu những mũi tên mang sức mạnh nguyên tố, có thể thay đổi cục diện trận chiến chỉ bằng một phát bắn chuẩn xác.
+Hậu duệ của **Hậu Nghệ**, bậc thầy xạ tiễn huyền thoại. Huolong không chỉ là một cung thủ xuất sắc mà còn sở hữu những mũi tên mang sức mạnh nguyên tố, có thể thay đổi cục diện trận chiến chỉ bằng một phát bắn chuẩn xác.
 
 **Kỹ năng:**
 
-- **Mũi Tên Băng ❄️🏹**: *Một phát bắn lạnh lẽo, đóng băng kẻ địch trong thời gian dài, làm chậm mọi động tác và khiến chúng trở thành mục tiêu dễ dàng.*
-- **Mũi Tên Hỏa 🔥🏹**: *Một mũi tên rực lửa, xuyên qua giáp và gây sát thương cực lớn theo thời gian, biến mọi kẻ địch thành tro tàn.*
+- **Đại Băng Tiễn ❄️🏹**: *Một phát bắn lạnh lẽo, đóng băng kẻ địch trong thời gian dài, làm chậm mọi động tác và khiến chúng trở thành mục tiêu dễ dàng.*
+- **Hoả Tráp Tiễn 🔥🏹**: *Một mũi tên rực lửa, xuyên qua giáp và gây sát thương cực lớn theo thời gian, biến mọi kẻ địch thành tro tàn.*
 
 **FireDragon – Tiến hóa thành Thần Rồng**
 
