@@ -1,26 +1,39 @@
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    console.log("Language switch script loaded!");
+document.addEventListener("DOMContentLoaded", function () {
+    const langSwitcher = document.querySelectorAll(".lang-switch"); // Chọn các nút chuyển ngôn ngữ
+    if (!langSwitcher) return;
 
-    document.querySelectorAll(".lang-switch").forEach(button => {
-      button.addEventListener("click", function (event) {
-        event.preventDefault();
-        
-        let currentPath = window.location.pathname;
-        console.log("Current path:", currentPath);
+    langSwitcher.forEach(button => {
+        button.addEventListener("click", function (event) {
+            event.preventDefault();
 
-        const isEnglish = currentPath.startsWith("/eng/");
+            // Lấy đường dẫn hiện tại
+            let currentPath = window.location.pathname;
 
-        // Lấy tên trang hiện tại (VD: `/news/` hoặc `/about/`)
-        let pageName = currentPath.replace(/^\/eng\//, "/").replace(/^\//, "");
-        console.log("Page name:", pageName);
+            // Nếu đang ở trang gốc ("/"), đổi sang trang chính tiếng Anh ("/eng/")
+            if (currentPath === "/") {
+                window.location.href = "/eng/";
+                return;
+            }
 
-        // Xây dựng đường dẫn chuyển đổi ngôn ngữ
-        let targetPath = isEnglish ? `/${pageName}` : `/eng/${pageName}`;
-        
-        console.log("Switching to:", targetPath);
-        window.location.href = targetPath;
-      });
+            // Nếu đang ở trang gốc tiếng Anh ("/eng/"), đổi về trang chính tiếng Việt ("/")
+            if (currentPath === "/eng/") {
+                window.location.href = "/";
+                return;
+            }
+
+            // Xác định đang ở tiếng Anh hay tiếng Việt
+            const isEnglish = currentPath.startsWith("/eng/");
+
+            // Xóa "/eng/" nếu đang ở English để lấy trang tương ứng
+            let targetPath = isEnglish
+                ? currentPath.replace("/eng/", "/")  // Chuyển từ English về Việt
+                : "/eng" + currentPath;             // Chuyển từ Việt sang English
+
+            // Kiểm tra nếu targetPath có dấu "//" -> sửa thành "/"
+            targetPath = targetPath.replace("//", "/");
+
+            // Chuyển trang
+            window.location.href = targetPath;
+        });
     });
-  });
-</script>
+});
