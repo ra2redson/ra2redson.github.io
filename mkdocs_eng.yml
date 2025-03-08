@@ -1,20 +1,18 @@
 site_name: Ra2 SuperHero Redson V2.0
+docs_dir: .  # <-- Quan trọng! Giữ nguyên vị trí index.md
+
 nav:
-- Eng:
-    About: eng/about.md
-    Index: eng/index.md
-- Vi:
-    Index: vi/index.md
-    Infovi: vi/infovi.md
+  - Info: index.md
 extra:
   alternate:
-  - name: 🇻🇳 Tiếng Việt
-    link: /vi/
-    lang: vi
-  - name: 🇬🇧 English
-    link: /en/
-    lang: en
+    - name: 🇻🇳 Tiếng Việt
+      link: /
+      lang: vi
+    - name: 🇬🇧 English
+      link: /eng/
+      lang: en
 theme:
+  language: en
   name: material
   palette:
   - scheme: default

@@ -26,12 +26,20 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs mkdocs-material
 
-      - name: Build MkDocs site
-        run: mkdocs build  # 🔥 Bắt buộc để tạo trang web
+      - name: Build MkDocs site (Vietnamese)
+        run: mkdocs build --config-file mkdocs.yml  # Build Tiếng Việt vào `site/`
+
+      - name: Build MkDocs site (English)
+        run: mkdocs build --config-file docs/eng/mkdocs.yml --site-dir ./site_eng  # ✅ Sửa lỗi site_dir
+
+      - name: Merge English site into main site folder
+        run: |
+          mkdir -p site/eng
+          mv site_eng/* site/eng/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: site  # MkDocs build vào thư mục `site`
+          publish_dir: site  # ✅ Deploy toàn bộ `site/`
