@@ -19,18 +19,18 @@ Xuất thân từ chương trình huấn luyện sát thủ **Black Widow**, Nat
 **Kỹ năng:**
 
 - **Bắn Loạt Đạn Hình Cung Quạt 🔫**: *Rút vũ khí nhanh như chớp, xả đạn chính xác theo hình vòng cung, tiêu diệt nhiều mục tiêu cùng lúc.*
-- **Gọi Máy Bay Không Kích ✈️**: *Một cú ra lệnh đơn giản, và ngay lập tức, cơn mưa bom từ trên cao sẽ san phẳng chiến trường, xóa sổ kẻ địch trong nháy mắt.*
+- **Gọi Máy Bay Không Kích ✈️**: *Một cú ra lệnh đơn giản, và ngay lập tức, siêu cánh én từ trên cao sẽ san phẳng chiến trường, xóa sổ công trình địch trong nháy mắt.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
 <span style="font-size: 24px; font-weight: bold;">NƯỚC CUBA</span>
 
 **Nod Commando – Chiến binh công nghệ tối tân**
 
-Một đặc nhiệm tinh nhuệ thuộc phe Nod, Nod Commando được trang bị những vũ khí tiên tiến nhất, kết hợp giữa tốc độ, hỏa lực và chiến thuật tàn nhẫn. Là cơn ác mộng của bất kỳ chiến trường nào, hắn có thể quét sạch cả một đội quân chỉ bằng đôi tay của mình.
+Một đặc nhiệm tinh nhuệ thuộc phe Nod, Nod Commando được trang bị những vũ khí tiên tiến nhất, kết hợp giữa tốc độ, hỏa lực và chiến thuật tàn nhẫn. Là cơn ác mộng của bất kỳ chiến trường nào, cô có thể quét sạch cả một đội quân chỉ bằng đôi tay của mình.
 
 **Kỹ năng:**
 
-- **Súng Laser Siêu Cấp Nhiều Chế Độ 🔫⚡**: *Một vũ khí sát thương cao với khả năng chuyển đổi giữa chế độ **bắn tỉa chính xác**, **phát xung điện từ vô hiệu hóa**, và **bắn liên thanh** để càn quét kẻ thù.*
+- **Súng Laser Siêu Cấp Nhiều Chế Độ 🔫⚡**: *Một vũ khí sát thương cao với khả năng chuyển đổi giữa chế độ **bắn trên không**, **bắn dưới đất**, và **bắn chí mạng** để càn quét kẻ thù.*
 
 **Scorpion – Sát thủ từ bóng tối**
 
@@ -38,8 +38,8 @@ Là một bậc thầy sát thủ, Scorpion không chỉ sử dụng kiếm và 
 
 **Kỹ năng:**
 
-- **Phóng Phi Tiêu Sắc Lẻm 🏹⚔️**: *Một cú quăng phi tiêu chính xác, kéo đối thủ lại gần để ra đòn kết liễu chí mạng.*
-- **Lửa Thần 🔥👹**: *Triệu hồi ngọn lửa từ địa ngục, thiêu cháy kẻ thù trong đau đớn tuyệt vọng.*
+- **Phóng Phi Tiêu Sắc Lẻm 🏹⚔️**: *Một cú quăng phi tiêu chính xác, vạn phi tiêu xuất hiện tấn công dồn dập vào đối phương và gây choáng nặng.*
+- **Lửa Thần 🔥👹**: *Triệu hồi ngọn lửa từ địa ngục, thiêu cháy kẻ thù một vùng rộng lớn trong đau đớn tuyệt vọng.*
 <br><br><br>  <!-- Thêm khoảng trống -->
 
 <span style="font-size: 24px; font-weight: bold;">NƯỚC LYBIA</span>
@@ -71,7 +71,7 @@ Một chiến binh ngoài hành tinh được sinh ra để săn lùng và tiêu
 
 **Kỹ năng:**
 
-- **Bắn Tia Năng Lượng Ngoài Hành Tinh ⚡🔫**: *Phát ra luồng năng lượng cực mạnh từ vũ khí plasma, thiêu rụi kẻ địch ngay lập tức.*
+- **Bắn Tia Năng Lượng X⚡🔫**: *Phát ra luồng năng lượng cực mạnh từ vũ khí plasma, thiêu rụi kẻ địch ngay lập tức.*
 
 **Doom Slayer – Cơn ác mộng của quỷ dữ**
 
