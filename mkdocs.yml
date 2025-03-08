@@ -1,7 +1,13 @@
 site_name: Ra2 SuperHero Redson V2.0
 nav:
   - Giới Thiệu: index.md
-  - Có gì mới ? : NEWS.md
+  - Có gì mới ?: NEWS.md
+  - Siêu Anh Hùng:
+    - Phe Đồng Minh: HEROALLIED.md
+    - Phe Soviet: HEROSOVIET.md
+    - Phe Yuri: HEROYURI.md
+    - Phe Asian: HEROASIAN.md
+    - Đặc Biệt: HEROSPECIAL.md
 extra:
   alternate:
     - name: 🇻🇳 Tiếng Việt
