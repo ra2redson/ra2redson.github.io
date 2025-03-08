@@ -18,3 +18,33 @@ Bản mod này bắt nguồn ý tưởng từ mod **Expandables**, nhưng đã �
 Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng** và chinh phục chiến trường **RA2 SuperHero** chưa? 🚀
 
 👉 **Tải ngay & trải nghiệm!**
+## Tải Game  
+Bạn có thể tải game tại đây:  
+
+<a href="link_tải_game" class="download-btn">
+    <span>⬇ Tải Game</span>
+</a>
+
+<style>
+  .download-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+    border-radius: 8px;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 4px 10px rgba(255, 65, 108, 0.4);
+  }
+
+  .download-btn:hover {
+    background: linear-gradient(45deg, #ff4b2b, #ff416c);
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(255, 65, 108, 0.6);
+  }
+</style>
