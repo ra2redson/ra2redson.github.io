@@ -18,12 +18,15 @@ Bản mod này bắt nguồn ý tưởng từ mod **Expandables**, nhưng đã �
 Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng** và chinh phục chiến trường **RA2 SuperHero** chưa? 🚀
 
 👉 **Tải ngay & trải nghiệm!**
+
 Phiên Bản Cài Đặt EXE
+
 <a href="link_tải_game" class="download-btn green-btn">
     <span>⬇ RA2SH.EXE</span>
 </a>
 
 Phiên Bản Giải Nén ZIP
+
 <a href="link_tải_game" class="download-btn orange-btn">
     <span>⬇ RA2SH.ZIP</span>
 </a>
