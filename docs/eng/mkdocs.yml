@@ -10,7 +10,7 @@ extra:
       link: /eng/
       lang: en
 theme:
-  language: vi 
+  language: en
   name: material
   palette:
   - scheme: default
