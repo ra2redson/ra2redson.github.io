@@ -1,7 +1,7 @@
 <span style="font-size: 24px; font-weight: bold;">NƯỚC MỸ</span>
 
 **Iron Man** – Biểu tượng của sức mạnh công nghệ, khoác lên mình bộ giáp chiến đấu tiên tiến nhất. Không chỉ sở hữu khả năng bay lượn linh hoạt, anh còn trang bị hỏa lực cực mạnh, có thể tiêu diệt nhiều mục tiêu cùng lúc.
-
+![GIF mô tả kỹ năng](https://media4.giphy.com/media/6n8QfoQhIoKWR9uLt5/giphy.gif?cid=6c09b952vgt6yab5vkwnwl6ysip7f2h03gxj84uqzp9fh8pc&ep=v1_gifs_search&rid=giphy.gif&ct=g){ .center 
 Kỹ năng:
 
 - **Tia Năng Lượng** ⚡: *Tích tụ năng lượng vào lò phản ứng Arc, sau đó phóng ra một chùm tia năng lượng mạnh mẽ. Đòn tấn công này có thể xuyên thủng giáp dày, thiêu rụi kẻ địch ngay lập tức.*
