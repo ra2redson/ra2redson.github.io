@@ -21,7 +21,7 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
 **Phiên Bản Cài Đặt EXE**
 
 <a href="link_tải_game" class="download-btn">
-    <span>⬇ Tải Game</span>
+    <span>⬇ RA2SH.EXE</span>
 </a>
 
 <style>
@@ -43,6 +43,37 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
 
   .download-btn:hover {
     background-color: #238636;
+    filter: brightness(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+}
+
+  }
+</style>
+**Phiên Bản Giải Nén ZIP**
+
+<a href="link_tải_game" class="download-btn">
+    <span>⬇ RA2SH.ZIP</span>
+</a>
+
+<style>
+  .download-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 6px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff !important;
+    background-color: #f4a261; /* Màu cam nhẹ */
+    border-radius: 4px;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Nhỏ lại */
+  }
+
+  .download-btn:hover {
+    background-color: #e76f51; /* Cam đậm hơn khi hover */
     filter: brightness(1.1);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
 }
