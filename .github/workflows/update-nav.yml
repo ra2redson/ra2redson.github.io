@@ -30,11 +30,16 @@ jobs:
         run: mkdocs build --config-file mkdocs.yml  # Build Tiếng Việt vào `site/`
 
       - name: Build MkDocs site (English)
-        run: mkdocs build --config-file docs/eng/mkdocs.yml --site-dir site/eng  # 🔥 Build vào site/eng
+        run: mkdocs build --config-file docs/eng/mkdocs.yml --site-dir site_eng  # Build ra ngoài
+
+      - name: Merge English site into main site folder
+        run: |
+          mkdir -p site/eng
+          mv site_eng/* site/eng/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: site  # 🔥 Deploy cả `site/` (VN) + `site/eng` (EN)
+          publish_dir: site  # Deploy cả `site/`
