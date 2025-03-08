@@ -11,9 +11,11 @@ extra:
     - name: 🇻🇳 Tiếng Việt
       link: /
       lang: vi
+      class: lang-switch
     - name: 🇬🇧 English
       link: /eng/
       lang: en
+      class: lang-switch
 theme:
   language: en
   name: material
