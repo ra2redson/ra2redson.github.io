@@ -15,8 +15,6 @@ extra:
 theme:
   language: vi 
   name: material
-  features:
-    - navigation.tracking  # Không có `toc.integrate`
   palette:
   - scheme: default
     toggle:
