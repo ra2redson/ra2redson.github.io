@@ -1,6 +1,6 @@
 <span style="font-size: 24px; font-weight: bold;">PHE ĐỒNG MINH</span>
 
-**Lightning Storm – Cơn Thịnh Nộ Từ Bầu Trời**
+**Lightning Storm – Bão Sét** (MỸ-HÀN)
 
 Triệu hồi **một cơn bão sấm sét khổng lồ**, giáng **liên tiếp hàng chục tia sét** xuống chiến trường, **hủy diệt xe cộ, bộ binh và công trình** trong phạm vi rộng lớn.
 
@@ -11,9 +11,9 @@ Triệu hồi **một cơn bão sấm sét khổng lồ**, giáng **liên tiếp
 - Không thể kiểm soát được mục tiêu tấn công – **tất cả đều có thể trở thành nạn nhân**!
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Ion Cannon – Cơn Lốc Chết Chóc**
+**Ion Cannon – Cơn Lốc Chết Chóc** (NHẬT BẢN)
 
-Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổng lồ**, kéo tất cả **xe cộ và bộ binh** về trung tâm. Sau đó, **một luồng năng lượng Ion hủy diệt** sẽ giáng xuống, **thiêu rụi toàn bộ khu vực**!
+Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổng lồ**, kéo tất cả **xe cộ** về trung tâm. Sau đó, **một luồng năng lượng Ion hủy diệt** sẽ giáng xuống, **thiêu rụi toàn bộ khu vực**!
 
 **🌪️Tác dụng:**
 
@@ -22,7 +22,7 @@ Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổn
 - Đặc biệt nguy hiểm với **xe cộ và bộ binh** – **đi vào là xác định đi luôn!**
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Atlas Cannon – Vụ Nổ Địa Chấn**
+**Atlas Cannon – Vụ Nổ Địa Chấn** (ANH-CANADA)
 
 Bắn **một viên đạn Atlas siêu cấp**, tạo ra **một vụ nổ lớn** tại điểm va chạm. Sau đó, **sóng xung kích lan rộng**, **gây sát thương liên hoàn** ra xung quanh.
 
@@ -33,7 +33,7 @@ Bắn **một viên đạn Atlas siêu cấp**, tạo ra **một vụ nổ lớn
 - Đặc biệt hiệu quả với **xe tăng và công trình** – **đứng gần là đi luôn!**
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Particle Cannon – Vũ Khí Tử Thần Có Thể Điều Khiển**
+**Particle Cannon – Vũ Khí Tử Thần Có Thể Điều Khiển** (PHÁP-ĐỨC)
 
 Bắn **một tia năng lượng tập trung** có thể **chọn mục tiêu và điều khiển hướng di chuyển**, **quét sạch chiến trường** theo ý muốn!
 
@@ -47,7 +47,7 @@ Bắn **một tia năng lượng tập trung** có thể **chọn mục tiêu v�
 <span style="font-size: 24px; font-weight: bold;">PHE SOVIET</span>
 
   
-**Nuke – Đòn Trừng Phạt Hạt Nhân**
+**Nuke – Đòn Trừng Phạt Hạt Nhân** (NƯỚC NGA)
 
 Phóng **một quả bom hạt nhân** cực mạnh xuống chiến trường, tạo ra **một vụ nổ khổng lồ**, **thiêu rụi mọi thứ** trong phạm vi ảnh hưởng.
 
@@ -58,7 +58,7 @@ Phóng **một quả bom hạt nhân** cực mạnh xuống chiến trường, t
 - **Không thể đánh chặn** – một khi đã phóng, **chỉ có thể nhìn nó rơi xuống!**
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Inferno Nuke – Hạt Nhân Địa Ngục**
+**Inferno Nuke – Hạt Nhân Địa Ngục** (CUBA,LYBIA)
 
 Một **quả bom hạt nhân đặc biệt**, không chỉ tạo ra **một vụ nổ khổng lồ**, mà còn **kéo theo một biển lửa rực cháy**, **thiêu rụi toàn bộ khu vực trong thời gian dài**!
 
@@ -69,20 +69,20 @@ Một **quả bom hạt nhân đặc biệt**, không chỉ tạo ra **một v�
 - Hiệu ứng cháy kéo dài, **gây sát thương theo thời gian** – **công trình, xe cộ, bộ binh đều không thoát được!**
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Radbomb – Bom Phóng Xạ**
+**Radbomb – Bom Phóng Xạ** (IRAQ)
 
 Không có một vụ nổ dữ dội, nhưng **Radbomb** lại gieo rắc **một cơn ác mộng chết chóc** bằng **bức xạ siêu mạnh**, biến khu vực trúng bom thành **vùng đất tử thần** trong một khoảng thời gian dài.
 
 **☣Tác dụng:**
 
-- **Không gây nổ ngay lập tức**, nhưng để lại **một khu vực nhiễm phóng xạ cực lâu**, khiến **bất kỳ ai đi vào đều bị suy yếu và chết dần theo thời gian**.
+- Để lại **một khu vực nhiễm phóng xạ cực lâu**, khiến **bất kỳ ai đi vào đều bị suy yếu và chết dần theo thời gian**.
 - **Đặc biệt nguy hiểm với bộ binh**, nhưng **cũng có thể làm hỏng xe cộ và công trình nếu ở trong vùng ảnh hưởng quá lâu**.
 - **Không thể xóa bỏ ngay lập tức** – **khu vực trúng Radbomb trở thành vùng cấm trong một khoảng thời gian dài**!
   <br><br><br>  <!-- Thêm khoảng trống -->
 
 <span style="font-size: 24px; font-weight: bold;">PHE YURI</span>
 
-**Psychic Dominator – Trùm Tâm Linh**
+**Psychic Dominator – Trùm Tâm Linh** (YURI)
 
 Vũ khí tối thượng của Yuri, **Psychic Dominator** giải phóng **một làn sóng năng lượng tâm linh cực mạnh**, **bóp méo không gian thực tại** và **điều khiển toàn bộ đơn vị đối phương** trong khu vực ảnh hưởng!
 
@@ -93,9 +93,9 @@ Vũ khí tối thượng của Yuri, **Psychic Dominator** giải phóng **một
 - **Không thể bị đánh chặn** – một khi Psychic Dominator kích hoạt, **chỉ có thể chấp nhận số phận!**
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Sauron Eye – Cơn Thịnh Nộ Của Chúa Tể Bóng Tối**
+**Sauron Eye – Cơn Thịnh Nộ Của Chúa Tể Bóng Tối** (NHÀ DỊ NHÂN)
 
-Một tuyệt tác chiến tranh của Yuri, **Sauron Eye** triệu hồi **hàng ngàn con mắt ma thuật** bay lơ lửng trên chiến trường, **tấn công liên tục mọi kẻ thù trong khu vực rộng lớn**. **Không ai có thể trốn thoát khỏi ánh nhìn hủy diệt này!**
+Một tuyệt tác chiến tranh của MUTANT, **Sauron Eye** triệu hồi **hàng ngàn con mắt ma thuật** bay lơ lửng trên chiến trường, **tấn công liên tục mọi kẻ thù trong khu vực rộng lớn**. **Không ai có thể trốn thoát khỏi ánh nhìn hủy diệt này!**
 
 **👁 Tác dụng:**
 
@@ -106,7 +106,7 @@ Một tuyệt tác chiến tranh của Yuri, **Sauron Eye** triệu hồi **hàn
   
 <span style="font-size: 24px; font-weight: bold;">PHE ASIAN</span>
 
-**Frostbomb – Quả Bom Băng Giá**
+**Frostbomb – Quả Bom Băng Giá**  (TRIỀU TIÊN)
 
 Một vũ khí hủy diệt lạnh lẽo, **Frostbomb** phát nổ và **đóng băng toàn bộ khu vực**, khiến kẻ địch **bị tê liệt hoàn toàn** trong một khoảng thời gian dài.
 
@@ -117,7 +117,7 @@ Một vũ khí hủy diệt lạnh lẽo, **Frostbomb** phát nổ và **đóng 
 - **Hiệu ứng kéo dài**, khiến đội quân địch **trở thành mục tiêu dễ dàng cho cuộc tấn công tiếp theo**!
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**EMP Bomb – Quả Bom Tê Liệt**
+**EMP Bomb – Quả Bom Tê Liệt** (VIỆT NAM)
 
 Vũ khí chiến tranh điện tử hiện đại, **EMP Bomb** phát nổ và **phóng ra xung điện từ**, **vô hiệu hóa tất cả xe cộ, trụ phòng thủ và công trình điện tử trong khu vực**!
 
@@ -127,7 +127,7 @@ Vũ khí chiến tranh điện tử hiện đại, **EMP Bomb** phát nổ và *
 - **Công trình phụ thuộc vào điện sẽ bị cắt nguồn năng lượng**, làm **tê liệt hệ thống phòng thủ của kẻ địch**.
   <br><br><br>  <!-- Thêm khoảng trống -->
   
-**Tru Tiên Kiếm Trận – Trận Pháp Tru Tiên**
+**Tru Tiên Kiếm Trận – Trận Pháp Tru Tiên** (TRUNG QUỐC)
 
 Dựa trên trận pháp huyền thoại trong **Tru Tiên**, **Tru Tiên Kiếm Trận** triệu hồi **một cơn mưa kiếm** tấn công liên tục, kết thúc bằng **một thanh Tru Tiên đại kiếm khổng lồ từ trên trời giáng xuống**, **xé toạc chiến trường và hủy diệt mọi thứ!**
 
