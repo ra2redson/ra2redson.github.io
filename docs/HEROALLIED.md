@@ -1,0 +1,135 @@
+<span style="font-size: 34px; font-weight: bold;">NƯỚC MỸ</span>
+
+**Iron Man** – Biểu tượng của sức mạnh công nghệ, khoác lên mình bộ giáp chiến đấu tiên tiến nhất. Không chỉ sở hữu khả năng bay lượn linh hoạt, anh còn trang bị hỏa lực cực mạnh, có thể tiêu diệt nhiều mục tiêu cùng lúc.
+
+Kỹ năng:
+
+- **Tia Năng Lượng** ⚡: *Tích tụ năng lượng vào lò phản ứng Arc, sau đó phóng ra một chùm tia năng lượng mạnh mẽ. Đòn tấn công này có thể xuyên thủng giáp dày, thiêu rụi kẻ địch ngay lập tức.*
+- **Loạt Tên Lửa** 🚀: *Hệ thống vũ khí trên vai khai hỏa một loạt tên lửa tự động dẫn đường, tấn công nhiều mục tiêu cùng lúc. Đây là kỹ năng lý tưởng để càn quét lực lượng đông đảo của đối phương.*
+
+**Captain America** – Biểu tượng của lòng dũng cảm và sức mạnh siêu chiến binh. Với chiếc khiên Vibranium bất khả chiến bại và khả năng cận chiến vượt trội, anh là chiến binh tiên phong trong mọi trận đấu.
+
+Kỹ năng:
+
+- **Quăng Khiên** 🛡️: Ném chiếc khiên Vibranium với độ chính xác cao, khiến nó bật nảy liên tiếp giữa nhiều kẻ địch trước khi quay về tay. Đòn tấn công này không chỉ gây sát thương mà còn làm choáng mục tiêu.
+- **Cú Đấm Mạnh** 👊: Tập trung toàn bộ sức mạnh siêu chiến binh vào một cú đấm hủy diệt, đủ để hạ gục xe cộ và kẻ thù được trang bị giáp nặng.
+
+**HÀN QUỐC**
+
+### **Serious Sam** – Chiến binh diệt quái không khoan nhượng
+
+Một chiến binh gan dạ với kho vũ khí hạng nặng, sẵn sàng càn quét mọi kẻ thù bằng hỏa lực áp đảo. Không cần chiến thuật phức tạp, chỉ cần súng lớn và bắn không ngừng nghỉ!
+
+**Kỹ năng:**
+
+- **Bắn Đạn Liên Thanh** 🔫: Xả súng với tốc độ cực cao, tiêu diệt mọi kẻ địch trong tầm ngắm. Sát thương lớn, lý tưởng để càn quét quân địch đông đảo.
+- **Quăng Bom** 💣: Ném một quả bom sát thương mạnh, phát nổ diện rộng, tiêu diệt lính bộ binh và gây hư hại xe cộ.
+
+### **Deadpool** – Gã lính đánh thuê lắm lời, khó chết và nguy hiểm
+
+Với khả năng hồi phục đáng kinh ngạc và phong cách chiến đấu kết hợp giữa súng ống và kiếm, Deadpool là cơn ác mộng của bất kỳ kẻ địch nào.
+
+**Kỹ năng:**
+
+- **Bắn Đạn Liên Thanh** 🔫: Sử dụng hai khẩu súng ngắn, xả đạn với tốc độ chóng mặt, gây sát thương nhanh và liên tục lên mục tiêu.
+- **Phi Kiếm** ⚔️: Ném thanh katana sắc bén với tốc độ cao, xuyên thủng kẻ địch và gây sát thương lớn. Kiếm có thể quay lại hoặc trúng nhiều mục tiêu nếu nâng cấp.
+
+**NƯỚC ANH**
+### **Sam Fisher** – Bậc thầy ám sát và tác chiến ngầm
+
+Đặc vụ kỳ cựu của Third Echelon, Sam Fisher là một sát thủ tinh nhuệ với kỹ năng tàng hình, xâm nhập và tiêu diệt mục tiêu mà không để lại dấu vết.
+
+**Kỹ năng:**
+
+- **Đặt Bom** 💣: Bí mật gài chất nổ tại vị trí chiến lược, kích nổ từ xa để hạ gục nhiều kẻ địch cùng lúc.
+- **Tàng Hình** 👤: Kích hoạt chế độ ẩn thân, khiến kẻ địch không thể phát hiện trong thời gian ngắn. Hoàn hảo để tiếp cận và ám sát mục tiêu.
+- **Lội Nước** 🌊: Di chuyển âm thầm dưới nước, vượt qua chướng ngại vật mà không bị phát hiện.
+- **Sát Thủ Ẩn Mình** 🔪: Hạ gục kẻ địch bằng những đòn tấn công chí mạng, không gây tiếng động, lý tưởng cho lối chơi bí mật.
+
+### **Doctor Strange** – Pháp sư tối thượng với quyền năng siêu việt
+
+Bậc thầy ma thuật của vũ trụ, Doctor Strange sử dụng những phép thuật hùng mạnh để kiểm soát thực tại và tiêu diệt kẻ địch theo cách ngoạn mục nhất.
+
+**Kỹ năng:**
+
+- **Ma Thuật Làm Tan Biến Đối Thủ** ✨: Niệm chú tạo ra một vòng xoáy phép thuật, làm kẻ địch bị hút vào và biến mất khỏi chiến trường.
+- **Gọi Nhiều Quả Cầu Năng Lượng** 🔮: Triệu hồi một loạt cầu năng lượng, tự động truy đuổi và tấn công đám đông kẻ địch, gây sát thương diện rộng.
+
+**NƯỚC PHÁP**
+
+### **Duke Nukem** – Chiến binh bất diệt với hỏa lực mạnh mẽ
+
+Duke Nukem là biểu tượng của sức mạnh và sự hủy diệt, không ngán bất kỳ kẻ thù nào. Anh ta mang theo vũ khí tối tân và một thái độ không khoan nhượng với lũ quái vật.
+
+**Kỹ năng:**
+
+- **Bắn Đạn Ma Hỏa** 🔥🔫: Sử dụng đạn đặc biệt mang năng lượng địa ngục, gây sát thương cháy lan và xuyên giáp mạnh mẽ.
+
+### **Batman** – Hiệp sĩ bóng đêm với công nghệ tối tân
+
+Batman không chỉ là một chiến binh tinh nhuệ mà còn sở hữu hàng loạt công nghệ tiên tiến để kiểm soát chiến trường từ bóng tối.
+
+**Kỹ năng:**
+
+- **Gọi Batship** 🦇🚀: Triệu hồi Batship oanh tạc các công trình quan trọng của đối thủ, phá hủy trụ phòng thủ và căn cứ từ trên cao.
+- **Bắn Tia EMP** ⚡: Sử dụng xung điện từ làm tê liệt xe cộ, tháp phòng thủ và hệ thống điện tử của kẻ địch trong một khoảng thời gian ngắn, mở đường cho cuộc tấn công.
+
+**NƯỚC ĐỨC**
+
+### **Thor** – Thần sấm quyền năng của chiến trường
+
+Thor, vị thần sấm sét mạnh mẽ, điều khiển sức mạnh của bão tố và tia sét để quét sạch kẻ thù. Với chiếc búa Mjolnir huyền thoại, anh ta có thể tạo ra những đòn tấn công diện rộng đầy uy lực.
+
+**Kỹ năng:**
+
+- **Gọi Sét** ⚡🌩️: Triệu hồi sấm sét tấn công một vùng lớn, gây sát thương mạnh lên tất cả kẻ địch trong khu vực.
+- **Thiên Lôi Phán Xét** ☄️⚡: Trên không trung, 5 tia sét giáng xuống cùng lúc, đánh trúng các mục tiêu ngẫu nhiên. Dưới mặt đất, 9 đạo tia sét lớn di chuyển và quét sạch chiến trường.
+
+### **Yuri** – Thiên thần người máy gieo rắc hủy diệt
+
+Yuri không còn là con người, mà đã tiến hóa thành một thực thể cơ khí với sức mạnh vượt xa tưởng tượng. Trên chiến trường, hắn ta có thể điều khiển sức mạnh của vũ trụ để tạo ra những đòn tấn công đáng sợ.
+
+**Kỹ năng:**
+
+- **Thiên Thần Cơ Giới** 🤖👼: Bay lượn trên cao, né tránh hầu hết các đòn tấn công trong khi tìm kiếm mục tiêu.
+- **Mưa Sao Băng** ☄️💥: Gọi hàng loạt thiên thạch từ không gian lao xuống chiến trường, phá hủy các đơn vị và công trình trong phạm vi rộng.
+
+CANADA
+
+### **Deadshot** – Sát thủ bách phát bách trúng
+
+Deadshot là tay thiện xạ không bao giờ bỏ lỡ mục tiêu. Với khả năng nhắm bắn chính xác tuyệt đối, hắn có thể kết liễu kẻ thù từ khoảng cách xa chỉ trong nháy mắt.
+
+**Kỹ năng:**
+
+- **5 Viên Đạn Tử Thần** 🎯🔫: Bắn liên tiếp 5 phát đạn có độ chính xác tuyệt đối, mỗi viên đều tìm đến điểm yếu của kẻ thù và gây sát thương chí mạng.
+- **Bách Phát Bách Trúng** 🎯🔥: Đảm bảo mọi phát bắn đều trúng mục tiêu, bất kể khoảng cách hay vật cản.
+
+### **Hulk** – Cơn thịnh nộ xanh hủy diệt
+
+Hulk là cỗ máy hủy diệt sống với sức mạnh vượt xa mọi giới hạn. Càng tức giận, hắn càng trở nên nguy hiểm, có thể san phẳng cả chiến trường bằng những đòn đánh khủng khiếp.
+
+**Kỹ năng:**
+
+- **Càn Quét Cuồng Nộ** 💪💥: Nhấc bổng bất cứ thứ gì trong tầm tay—xe tăng, lính, hoặc thậm chí cả công trình—và ném mạnh về phía kẻ thù, gây sát thương diện rộng.
+- **Siêu Sức Bền** 🏋️‍♂️🛡️: Khả năng chịu đựng phi thường giúp Hulk giảm đáng kể sát thương nhận vào, gần như không thể bị hạ gục trong thời gian ngắn.
+
+NHẬT BẢN
+
+### **Yuriko Omega** – Vũ khí tâm linh hủy diệt
+
+Yuriko Omega là chiến binh với sức mạnh siêu nhiên, có thể thao túng năng lượng và biến kẻ thù thành cát bụi. Với trí tuệ sắc bén và sức mạnh tâm linh đáng sợ, cô ta là cơn ác mộng trên chiến trường.
+
+**Kỹ năng:**
+
+- **Omega Force** 🔵⚡: Triệu hồi một quả cầu năng lượng truy đuổi mục tiêu, phát nổ khi tiếp cận, gây sát thương mạnh trên diện rộng.
+- **Convert Beam** 🔥🔄: Giải phóng luồng năng lượng mạnh mẽ có thể làm biến đổi và tiêu diệt mọi thứ trong phạm vi ảnh hưởng.
+
+### **Yasuo** – Kiếm sĩ du mục bất bại
+
+Yasuo là bậc thầy của kiếm thuật và gió, với tốc độ ra đòn cực nhanh và những đòn tấn công mạnh mẽ quét sạch kẻ thù chỉ trong tích tắc.
+
+**Kỹ năng:**
+
+- **Lướt Kiếm** ⚔️💨: Lướt qua kẻ địch với tốc độ cực nhanh, gây sát thương liên tục và không thể bị tấn công trong thời gian ngắn.
+- **Bão Kiếm** 🌪️⚡: Tạo ra một cơn bão kiếm sắc bén, cuốn bay đối thủ và hạ gục chúng chỉ trong nháy mắt.
