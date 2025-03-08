@@ -3,6 +3,7 @@ nav:
   - Giới Thiệu: index.md
   - Có gì mới ? : NEWS.md
 extra:
+  custom_dir: overrides
   alternate:
     - name: 🇻🇳 Tiếng Việt
       link: /
