@@ -10,112 +10,123 @@ Giá: 0
 
 Siêu vũ khí tạm thời dùng năng lượng làm lá chắn chống chịu sát thương cho công trình theo thời gian.
 
-**IronCurtain**
+**IronCurtain** (SOVIET)
 
 Giá: 0
 
 Siêu vũ khí tạm thời dùng năng lượng làm lá chắn chống chịu sát thương cho tank theo thời gian.
 
-**ChronoSphere**
+**GeneticConverter** (YURI)
+
+Giá: 0
+
+Siêu vũ khí biến đổi gen.
+
+**ChronoSphere** (ĐỒNG MINH)
 
 Giá: 0
 
 Siêu vũ khí dịch chuyển các đơn vị xe tank đến vị trí chỉ định
 
-**Kamikaze Plane**
+**Kamikaze Plane** (TRIỀU TIÊN)
 
 Giá : 0
 
 Gọi các máy bay cảm tử lao mình vào căn cứ địch.
 
-**TankParadrop**
+**TankParadrop** (TRUNG QUỐC)
 
 Giá : 0
 
 Thả các loại xe tank vào căn cứ địch.
 
-**ClusterMine**
+**ClusterMine** (VIỆT NAM)
 
 Giá : 0
 
 Thả nhiều bẫy mìn vào căn cứ địch.
 
-**Summon Seven Heros**
+**Summon Seven Heros** (ĐỒNG MINH)
 
 Giá : 5000
 
 Siêu vũ khí triệu hồi 7 vị samurai với thanh kiếm năng lượng giúp phòng thủ early game.
 
-**Summon 5 Iron Guard**
+**Summon 5 Iron Guard** (SOVIET)
 
 Giá : 5000
 
 Siêu vũ khí triệu hồi 5 chiến binh điện mạnh mẽ giúp phòng thủ early game.
 
-**Summon Stinger Ambush**
+**Summon Stinger Ambush** (YURI)
 
 Giá : 5000
 
 Siêu vũ khí triệu hồi 3 bọ cạp máy giúp phòng thủ early game.
 
-**Summon SHEN**
+**Summon SHEN** (ASIAN)
 
 Giá : 5000
 
 Siêu vũ khí triệu hồi 3 chiếc siêu tank rồng hoả lực cực mạnh.
 
-**MARVEL Helicarrier**
+**MARVEL Helicarrier** (ĐỒNG MINH)
 
 Giá : 10000
 Siêu vũ khí triệu hồi 1 pháo đài bay trong thời gian ngắn, dùng 5 loại vũ khí khác nhau tấn công xoay vòng.
 
-**ThunderStrike Squadron**
+**THREE EIFFFEL** (PHÁP)
+
+Giá : 7000
+Siêu vũ khí triệu hồi 1 3 tháp eiffel trong thời gian ngắn, tấn công điện dồn dập đối thủ.
+
+**ThunderStrike Squadron** (ĐỒNG MINH)
 Giá : 7000
 
 Siêu vũ khí triệu hồi dàn máy bay oanh tạc vùng rộng lớn với hàng tấn sát thương.
 
-**ScudStorm**
+**ScudStorm** (SOVIET)
 
 Giá : 10000
 Siêu vũ khí khai hoả dàn tên lửa scud bắn vào căn cứ địch.
 
-**Skyrage**
+**Skyrage** (NGA)
 
 Giá : 5000
 
 Siêu vũ khí điều khiển 1 vệ tinh rớt xuống căn cứ địch.
 
-**BattleSHIP Summon**
+**BattleSHIP Summon** (SOVIET)
 
 Giá : 7000
 
 Siêu vũ khí triệu hồi 5 chiếc siêu chiến thuỷ, với khả năng bắn mưa pháo vào công trình đối phương.
 
-**MotherShip Summon**
+**MotherShip Summon** (SOVIET)
 
 Giá : 10000
 
 Siêu vũ khí triệu hồi MotherShip bắn 5 loại bom rad xoay vòng.
 
-**Voltotron**
+**Voltotron** (ASIAN)
 
 Giá : 7000
 
 Gọi máy bay thả 3 trái bom sắt, có thể di chuyển tấn công, sau 1 thời gian ngắn sẽ phát nổ.
 
-**Vortex Pyramyd**
+**Vortex Pyramyd** (YURI+MUTANT)
 
 Giá : 10000
 
 Siêu vũ khí triệu hồi 1 Kim tự tháp hút linh hồn, tác dụng hút sạch các đơn vị lính, xe trong căn cứ địch.
 
-**Battle Cruiser**
+**Battle Cruiser** (YURI)
 
 Giá : 10000
 
 Siêu vũ khí triệu hồi 1 siêu máy bay trong chốc lát bắn các tia điều khiển tâm trí gây hoảng loạn căn cứ địch.
 
-**Army of the Dead**
+**Army of the Dead** (MUTANT)
 
 Giá : 10000
 
