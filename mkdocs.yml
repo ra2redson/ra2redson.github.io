@@ -31,6 +31,8 @@ extra:
       link: /eng/
       lang: en
       class: lang-switch
+extra_javascript:
+  - javascripts/custom.js
 theme:
   language: vi 
   name: material
