@@ -59,7 +59,7 @@ Là một bậc thầy sát thủ, Scorpion không chỉ sử dụng kiếm và 
 
 <div style="text-align: center;">
   <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
-    <source src="/videos/scorpion.mp4" type="video/mp4">
+    <source src="/videos/scor.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
