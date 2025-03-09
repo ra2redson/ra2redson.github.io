@@ -4,6 +4,13 @@
 
 Không còn là người anh hùng của nước Mỹ, **Superman Red Son** là vũ khí tối thượng của Liên Xô, một vị thần bước ra từ tuyên truyền, mang trên mình sứ mệnh bảo vệ công lý theo cách của chế độ. Sinh ra dưới lá cờ búa liềm, Superman không chỉ sở hữu sức mạnh vô địch mà còn mang trong mình lý tưởng không thể lay chuyển.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/superman.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
 - **Tia Heat Vision 🔥**: *Phóng tia nhiệt hủy diệt từ mắt, thiêu rụi mọi vật cản và kẻ thù.*
@@ -15,6 +22,13 @@ Không còn là người anh hùng của nước Mỹ, **Superman Red Son** là 
 **Natasha Romanoff – Điệp viên tối thượng của thế giới ngầm**
 
 Xuất thân từ chương trình huấn luyện sát thủ **Black Widow**, Natasha là điệp viên hoàn hảo, một bóng ma di chuyển giữa những cuộc chiến tranh lạnh và những nhiệm vụ tối mật. Không chỉ sở hữu khả năng chiến đấu cận chiến đáng sợ, cô còn là một bậc thầy về vũ khí hạng nhẹ và chiến thuật tác chiến.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/natasha.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 **Kỹ năng:**
 
@@ -28,6 +42,13 @@ Xuất thân từ chương trình huấn luyện sát thủ **Black Widow**, Nat
 
 Một đặc nhiệm tinh nhuệ thuộc phe Nod, Nod Commando được trang bị những vũ khí tiên tiến nhất, kết hợp giữa tốc độ, hỏa lực và chiến thuật tàn nhẫn. Là cơn ác mộng của bất kỳ chiến trường nào, cô có thể quét sạch cả một đội quân chỉ bằng đôi tay của mình.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/nod.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
 - **Súng Laser Siêu Cấp Nhiều Chế Độ 🔫⚡**: *Một vũ khí sát thương cao với khả năng chuyển đổi giữa chế độ **bắn trên không**, **bắn dưới đất**, và **bắn chí mạng** để càn quét kẻ thù.*
@@ -35,6 +56,13 @@ Một đặc nhiệm tinh nhuệ thuộc phe Nod, Nod Commando được trang b�
 **Scorpion – Sát thủ từ bóng tối**
 
 Là một bậc thầy sát thủ, Scorpion không chỉ sử dụng kiếm và phi tiêu mà còn triệu hồi ngọn **Lửa Thần** thiêu rụi mọi kẻ ngáng đường. Không ai có thể thoát khỏi móng vuốt của hắn, và một khi bị đánh dấu, chỉ có cái chết đang chờ đợi.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/scorpion.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 **Kỹ năng:**
 
@@ -48,6 +76,13 @@ Là một bậc thầy sát thủ, Scorpion không chỉ sử dụng kiếm và 
 
 Linh hồn báo thù, kẻ săn đuổi tội nhân. Ghost Rider không phải là một anh hùng – hắn là cơn ác mộng đối với những kẻ phạm tội, trừng phạt chúng bằng lửa địa ngục và nỗi kinh hoàng không thể trốn thoát.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/rider.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
 - **Sợi Xích Tội Lỗi ⛓️🔥**: *Chiếc xích ma quái có thể mở rộng vô tận, quấn chặt và thiêu đốt linh hồn kẻ thù bằng ngọn lửa địa ngục.*
@@ -57,10 +92,17 @@ Linh hồn báo thù, kẻ săn đuổi tội nhân. Ghost Rider không phải l
 
 Nhanh hơn ánh sáng, vượt qua mọi giới hạn vật lý, Flash không chỉ là người chạy nhanh – anh là hiện thân của tốc độ. Với phản xạ siêu phàm và khả năng thao túng không gian xung quanh, Flash có thể biến mọi trận chiến thành trò chơi của riêng mình.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/flash.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
-- **Đấm Siêu Nhanh 👊⚡**: *Tung hàng trăm cú đấm trong tích tắc, tạo ra lực sát thương khổng lồ khiến kẻ địch không kịp phản ứng.*
-- **Tạo Gió Lốc 🌪️💨**: *Chạy vòng quanh với tốc độ cao, tạo ra những cơn lốc mạnh mẽ, hất tung và vô hiệu hóa kẻ thù.
+- **Đấm Siêu Thanh 👊⚡**: *Tung hàng trăm cú đấm trong tích tắc, tạo ra lực sát thương khổng lồ khiến kẻ địch không kịp phản ứng.*
+- **Gió Lốc 🌪️💨**: *Chạy vòng quanh với tốc độ cao, tạo ra những cơn lốc mạnh mẽ, hất tung và vô hiệu hóa kẻ thù.
 <br><br><br>  <!-- Thêm khoảng trống -->
 
 <span style="font-size: 24px; font-weight: bold;">NƯỚC IRAQ</span>
@@ -69,6 +111,13 @@ Nhanh hơn ánh sáng, vượt qua mọi giới hạn vật lý, Flash không ch
 
 Một chiến binh ngoài hành tinh được sinh ra để săn lùng và tiêu diệt những con mồi mạnh nhất. Predator không chiến đấu vì danh vọng hay tiền bạc – hắn chiến đấu để chứng minh sức mạnh tuyệt đối của mình.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/predator.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
 - **Bắn Tia Năng Lượng X⚡🔫**: *Phát ra luồng năng lượng cực mạnh từ vũ khí plasma, thiêu rụi kẻ địch ngay lập tức.*
@@ -76,6 +125,13 @@ Một chiến binh ngoài hành tinh được sinh ra để săn lùng và tiêu
 **Doom Slayer – Cơn ác mộng của quỷ dữ**
 
 Một chiến binh huyền thoại, kẻ mang đến sự hủy diệt cho những con quỷ từ địa ngục. Doom Slayer không cần lời nói, không cần thương xót – chỉ có máu và sự tàn sát.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/doom.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 **Kỹ năng:**
 
