@@ -16,6 +16,13 @@ Kỹ năng:
 
 **Captain America** – Biểu tượng của lòng dũng cảm và sức mạnh siêu chiến binh. Với chiếc khiên Vibranium bất khả chiến bại và khả năng cận chiến vượt trội, anh là chiến binh tiên phong trong mọi trận đấu.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/captain.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Kỹ năng: 
 
 - **Quăng Khiên** 🛡️: *Ném chiếc khiên Vibranium với độ chính xác cao, khiến nó bật nảy liên tiếp giữa nhiều kẻ địch trước khi quay về tay. Đòn tấn công này gây sát thương cực mạnh lên mục tiêu.*
@@ -28,6 +35,13 @@ Kỹ năng:
 
 Một chiến binh gan dạ với kho vũ khí hạng nặng, sẵn sàng càn quét mọi kẻ thù bằng hỏa lực áp đảo. Không cần chiến thuật phức tạp, chỉ cần súng lớn và bắn không ngừng nghỉ!
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/sam.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Kỹ năng:
 
 - **Bắn Đạn Liên Thanh** 🔫: *Xả súng với tốc độ cực cao, tiêu diệt mọi kẻ địch trong tầm ngắm. Sát thương lớn, lý tưởng để càn quét quân địch đông đảo.*
@@ -36,6 +50,13 @@ Kỹ năng:
 **Deadpool** – Gã lính đánh thuê lắm lời, khó chết và nguy hiểm
 
 Với khả năng hồi phục đáng kinh ngạc và phong cách chiến đấu kết hợp giữa súng ống và kiếm, Deadpool là cơn ác mộng của bất kỳ kẻ địch nào.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/deadpool.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 Kỹ năng:
 
@@ -49,6 +70,13 @@ Kỹ năng:
 
 Đặc vụ kỳ cựu của Third Echelon, Sam Fisher là một sát thủ tinh nhuệ với kỹ năng tàng hình, xâm nhập và tiêu diệt mục tiêu mà không để lại dấu vết.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/fisher.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Kỹ năng:
 
 - **Đặt Bom** 💣: *Bí mật gài chất nổ tại vị trí chiến lược, kích nổ từ xa để hạ gục nhiều kẻ địch cùng lúc.*
@@ -59,6 +87,13 @@ Kỹ năng:
 **Doctor Strange** – Pháp sư tối thượng với quyền năng siêu việt
 
 Bậc thầy ma thuật của vũ trụ, Doctor Strange sử dụng những phép thuật hùng mạnh để kiểm soát thực tại và tiêu diệt kẻ địch theo cách ngoạn mục nhất.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/drstrange.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 Kỹ năng:
 
@@ -72,6 +107,13 @@ Kỹ năng:
 
 Duke Nukem là biểu tượng của sức mạnh và sự hủy diệt, không ngán bất kỳ kẻ thù nào. Anh ta mang theo vũ khí tối tân và một thái độ không khoan nhượng với lũ quái vật.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/duke.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Kỹ năng:
 
 - **Bắn Đạn Ma Hỏa** 🔥🔫: *Sử dụng đạn đặc biệt mang năng lượng địa ngục, gây sát thương cháy lan và xuyên giáp mạnh mẽ.*
@@ -79,6 +121,13 @@ Kỹ năng:
 **Batman** – Hiệp sĩ bóng đêm với công nghệ tối tân
 
 Batman không chỉ là một chiến binh tinh nhuệ mà còn sở hữu hàng loạt công nghệ tiên tiến để kiểm soát chiến trường từ bóng tối.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/batman.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 Kỹ năng:
 
@@ -92,6 +141,13 @@ Kỹ năng:
 
 Thor, vị thần sấm sét mạnh mẽ, điều khiển sức mạnh của bão tố và tia sét để quét sạch kẻ thù. Với chiếc búa Mjolnir huyền thoại, anh ta có thể tạo ra những đòn tấn công diện rộng đầy uy lực.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/thor.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Kỹ năng:
 
 - **Lôi Phạt** ⚡🌩️: *Triệu hồi sấm sét tấn công một vùng lớn, gây sát thương mạnh lên tất cả kẻ địch trong khu vực.*
@@ -100,6 +156,13 @@ Kỹ năng:
 **Yuri** – Thiên thần người máy gieo rắc hủy diệt
 
 Yuri không còn là con người, mà đã tiến hóa thành một thực thể cơ khí với sức mạnh vượt xa tưởng tượng. Trên chiến trường, hắn ta có thể điều khiển sức mạnh của vũ trụ để tạo ra những đòn tấn công đáng sợ.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/yuki.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 Kỹ năng:
 
@@ -113,6 +176,13 @@ Kỹ năng:
 
 Deadshot là tay thiện xạ không bao giờ bỏ lỡ mục tiêu. Với khả năng nhắm bắn chính xác tuyệt đối, hắn có thể kết liễu kẻ thù từ khoảng cách xa chỉ trong nháy mắt.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/deadshoot.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Kỹ năng:
 
 - **5 Viên Đạn Tử Thần** 🎯🔫: *Bắn liên tiếp 5 phát đạn có độ chính xác tuyệt đối, mỗi viên đều tìm đến điểm yếu của kẻ thù và gây sát thương chí mạng.*
@@ -121,6 +191,13 @@ Kỹ năng:
 **Hulk** – Cơn thịnh nộ xanh hủy diệt
 
 Hulk là cỗ máy hủy diệt sống với sức mạnh vượt xa mọi giới hạn. Càng tức giận, hắn càng trở nên nguy hiểm, có thể san phẳng cả chiến trường bằng những đòn đánh khủng khiếp.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/hulk.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 Kỹ năng:
 
@@ -134,6 +211,13 @@ Kỹ năng:
 
 Yuriko Omega là chiến binh với sức mạnh siêu nhiên, có thể thao túng năng lượng và biến kẻ thù thành cát bụi. Với trí tuệ sắc bén và sức mạnh tâm linh đáng sợ, cô ta là cơn ác mộng trên chiến trường.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/yuriko.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Kỹ năng:
 
 - **Omega Force** 🔵⚡: *Triệu hồi một quả cầu năng lượng truy đuổi mục tiêu, phát nổ khi tiếp cận, gây sát thương mạnh trên diện rộng.*
@@ -142,6 +226,13 @@ Kỹ năng:
 **Yasuo** – Kiếm sĩ du mục bất bại
 
 Yasuo là bậc thầy của kiếm thuật và gió, với tốc độ ra đòn cực nhanh và những đòn tấn công mạnh mẽ quét sạch kẻ thù chỉ trong tích tắc.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/yasuo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 **Kỹ năng:**
 
