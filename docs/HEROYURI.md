@@ -4,6 +4,13 @@
 
 Một chiến binh nửa máy nửa người, bị biến đổi bởi công nghệ ngoài hành tinh, Nebula là sự kết hợp hoàn hảo giữa tốc độ, sức mạnh và trí tuệ. Cô không chỉ là một sát thủ không khoan nhượng mà còn là cơn ác mộng của bất kỳ kẻ thù nào dám đối đầu.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/nebula.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
 - **Tia Sét Chuyển Đổi Gen ⚡🧬**: *Một luồng điện sinh học có thể làm biến đổi cấu trúc DNA của kẻ địch, khiến chúng suy yếu hoặc bị vô hiệu hóa hoàn toàn.*
@@ -18,6 +25,13 @@ Một chiến binh nửa máy nửa người, bị biến đổi bởi công ngh
 
 Một chiến binh hoang dã với bản năng sát thủ và sức sống mãnh liệt. Wolverine không ngán bất kỳ kẻ thù nào, bởi dù có bị xé nát, hắn vẫn sẽ đứng dậy và tiếp tục chiến đấu.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/wolv.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
 - **Móng Vuốt Sắc Lẻm ⚔️🐾**: *Bộ móng Adamantium có thể cắt xuyên qua mọi thứ, từ thép cứng đến xương thịt kẻ thù.*
@@ -27,6 +41,13 @@ Một chiến binh hoang dã với bản năng sát thủ và sức sống mãnh
 
 Một trong những dị nhân mạnh nhất từng tồn tại, Magneto không chỉ điều khiển kim loại – hắn **định nghĩa** lại cuộc chơi. Với sức mạnh áp đảo, hắn có thể san bằng cả thành phố chỉ bằng một cái phất tay.
 
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/magneto.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **Kỹ năng:**
 
 - **Điều Khiển Kim Loại 🏗️⚙️**: *Nâng, bẻ cong và thao túng mọi vật thể kim loại theo ý muốn, từ vũ khí nhỏ nhất đến công trình khổng lồ.*
@@ -35,6 +56,13 @@ Một trong những dị nhân mạnh nhất từng tồn tại, Magneto không 
 **Professor X – Bộ não mạnh nhất thế giới**
 
 Không cần bạo lực, không cần vũ khí – sức mạnh của **Professor X** đến từ trí tuệ và khả năng điều khiển tâm trí vô song. Một ý nghĩ từ ông có thể thay đổi cả chiến trường mà không cần nhấc một ngón tay.
+
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/x.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 **Kỹ năng:**
 
