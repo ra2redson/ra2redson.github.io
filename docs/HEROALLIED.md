@@ -2,9 +2,12 @@
 
 **Iron Man** – Biểu tượng của sức mạnh công nghệ, khoác lên mình bộ giáp chiến đấu tiên tiến nhất. Không chỉ sở hữu khả năng bay lượn linh hoạt, anh còn trang bị hỏa lực cực mạnh, có thể tiêu diệt nhiều mục tiêu cùng lúc.
 
-<p align="center">
-    <img src="https://media4.giphy.com/media/6n8QfoQhIoKWR9uLt5/giphy.gif?cid=6c09b952vgt6yab5vkwnwl6ysip7f2h03gxj84uqzp9fh8pc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF mô tả kỹ năng" width="300">
-  </p>
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="videos/ironman" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 Kỹ năng:
 
