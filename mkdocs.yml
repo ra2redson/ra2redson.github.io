@@ -1,28 +1,34 @@
 site_name: Ra2 SuperHero Redson V2.0
 nav:
-- SKIRNISH MODE:
-  - Giới Thiệu: index.md
-  - Có gì mới ?: NEWS.md
-  - Siêu Anh Hùng:
-    - Phe Đồng Minh: HEROALLIED.md
-    - Phe Soviet: HEROSOVIET.md
-    - Phe Yuri: HEROYURI.md
-    - Phe Asian: HEROASIAN.md
-    - Đặc Biệt: HEROSPECIAL.md
-  - Siêu Người Máy:
-    - Phe Đồng Minh: EPICALLIED.md
-    - Phe Soviet: EPICSOVIET.md
-    - Phe Yuri: EPICYURI.md
-    - Phe Asian: EPICASIAN.md
-  - Trụ Siêu Cấp: SOLAMER.md
-  - Siêu Vũ Khí Chính: SW.md
-  - Siêu Vũ Khí Phụ: SWMINI.md
-  - Đỉnh Olympus: Olympus.md
-  - Hướng Dẫn Client: CLIENT.md
-  - Thông Tin Tác Giả: INFO.md
-  - Youtube: https://www.youtube.com/@mr.solobdu
-  - DONATE: DONATE.md
-- CAMPAIGN MODE:
+  - SKIRNISH MODE:
+    - Giới Thiệu: index.md
+    - Có gì mới ?: NEWS.md
+    - Siêu Anh Hùng:
+      - Phe Đồng Minh: HEROALLIED.md
+      - Phe Soviet: HEROSOVIET.md
+      - Phe Yuri: HEROYURI.md
+      - Phe Asian: HEROASIAN.md
+      - Đặc Biệt: HEROSPECIAL.md
+    - Siêu Người Máy:
+      - Phe Đồng Minh: EPICALLIED.md
+      - Phe Soviet: EPICSOVIET.md
+      - Phe Yuri: EPICYURI.md
+      - Phe Asian: EPICASIAN.md
+    - Trụ Siêu Cấp: SOLAMER.md
+    - Siêu Vũ Khí Chính: SW.md
+    - Siêu Vũ Khí Phụ: SWMINI.md
+    - Đỉnh Olympus: Olympus.md
+    - Hướng Dẫn Client: CLIENT.md
+    - Thông Tin Tác Giả: INFO.md
+    - Youtube: https://www.youtube.com/@mr.solobdu
+    - DONATE: DONATE.md
+  - CAMPAIGN MODE:
+    - Giới Thiệu: index.md
+    - Có gì mới ?: NEWS.md
+    - Hướng Dẫn Client: CLIENT.md
+    - Thông Tin Tác Giả: INFO.md
+    - Youtube: https://www.youtube.com/@mr.solobdu
+    - DONATE: DONATE.md
 extra:
   alternate:
     - name: 🇻🇳 Tiếng Việt
