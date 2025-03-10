@@ -11,11 +11,17 @@ Bản mod này bắt nguồn ý tưởng từ mod **Expandables**, nhưng đã �
 ⚡ **Điểm nổi bật**
 
 ✅ **Dàn nhân vật siêu anh hùng và ác nhân** với sức mạnh độc nhất đến từ DC, Marvel, Anime
+
 ✅ **Kỹ năng & hiệu ứng chiến đấu hoành tráng đẹp mắt**  
+
 ✅ **AI thông minh hơn**, thử thách hơn và cực kỳ dồn dập
+
 ✅ **Đồ họa nâng cấp**, nhưng vẫn tôn trọng phong cách RA2 cổ điển  
+
 ✅ **Lối chơi train chủ đạo**, lựa chọn tối ưu nhất để nhanh chóng giành chiến thắng
+
 ✅ **Thư Viện Siêu Vũ Khí Đồ Sộ** : hoành tráng và vô cùng khủng khiếp
+
 ✅ **Phong cách MOD** : nhanh, mạnh mẽ, hùng tráng, giải trí
 
 Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng** và chinh phục chiến trường **RA2 SuperHero** chưa? 🚀
