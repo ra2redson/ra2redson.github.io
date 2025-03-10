@@ -4,7 +4,8 @@
 
 Triệu hồi **một cơn bão sấm sét khổng lồ**, giáng **liên tiếp hàng chục tia sét** xuống chiến trường, **hủy diệt xe cộ, bộ binh và công trình** trong phạm vi rộng lớn.
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/lightning2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/lightning2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -19,7 +20,8 @@ Triệu hồi **một cơn bão sấm sét khổng lồ**, giáng **liên tiếp
 
 Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổng lồ**, kéo tất cả **xe cộ** về trung tâm. Sau đó, **một luồng năng lượng Ion hủy diệt** sẽ giáng xuống, **thiêu rụi toàn bộ khu vực**!
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/ioncannon2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/ioncannon2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -34,7 +36,8 @@ Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổn
 
 Bắn **một viên đạn Atlas siêu cấp**, tạo ra **một vụ nổ lớn** tại điểm va chạm. Sau đó, **sóng xung kích lan rộng**, **gây sát thương liên hoàn** ra xung quanh.
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/atlas.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/atlas2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -49,7 +52,8 @@ Bắn **một viên đạn Atlas siêu cấp**, tạo ra **một vụ nổ lớn
 
 Bắn **một tia năng lượng tập trung** có thể **chọn mục tiêu và điều khiển hướng di chuyển**, **quét sạch chiến trường** theo ý muốn!
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/particle2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/particle2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -67,7 +71,8 @@ Bắn **một tia năng lượng tập trung** có thể **chọn mục tiêu v�
 
 Phóng **một quả bom hạt nhân** cực mạnh xuống chiến trường, tạo ra **một vụ nổ khổng lồ**, **thiêu rụi mọi thứ** trong phạm vi ảnh hưởng.
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/nuke2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/nuke2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -82,7 +87,8 @@ Phóng **một quả bom hạt nhân** cực mạnh xuống chiến trường, t
 
 Một **quả bom hạt nhân đặc biệt**, không chỉ tạo ra **một vụ nổ khổng lồ**, mà còn **kéo theo một biển lửa rực cháy**, **thiêu rụi toàn bộ khu vực trong thời gian dài**!
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/inferno2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/inferno2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -97,7 +103,8 @@ Một **quả bom hạt nhân đặc biệt**, không chỉ tạo ra **một v�
 
 Không có một vụ nổ dữ dội, nhưng **Radbomb** lại gieo rắc **một cơn ác mộng chết chóc** bằng **bức xạ siêu mạnh**, biến khu vực trúng bom thành **vùng đất tử thần** trong một khoảng thời gian dài.
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/radbomb2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/radbomb2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -114,7 +121,8 @@ Không có một vụ nổ dữ dội, nhưng **Radbomb** lại gieo rắc **m�
 
 Vũ khí tối thượng của Yuri, **Psychic Dominator** giải phóng **một làn sóng năng lượng tâm linh cực mạnh**, **bóp méo không gian thực tại** và **điều khiển toàn bộ đơn vị đối phương** trong khu vực ảnh hưởng!
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/psychic2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/psychic2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -129,7 +137,8 @@ Vũ khí tối thượng của Yuri, **Psychic Dominator** giải phóng **một
 
 Một tuyệt tác chiến tranh của MUTANT, **Sauron Eye** triệu hồi **hàng ngàn con mắt ma thuật** bay lơ lửng trên chiến trường, **tấn công liên tục mọi kẻ thù trong khu vực rộng lớn**. **Không ai có thể trốn thoát khỏi ánh nhìn hủy diệt này!**
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/sauroneye2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/sauroneye2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -146,7 +155,8 @@ Một tuyệt tác chiến tranh của MUTANT, **Sauron Eye** triệu hồi **h�
 
 Một vũ khí hủy diệt lạnh lẽo, **Frostbomb** phát nổ và **đóng băng toàn bộ khu vực**, khiến kẻ địch **bị tê liệt hoàn toàn** trong một khoảng thời gian dài.
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/frostbomb2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/frostbomb2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -161,7 +171,8 @@ Một vũ khí hủy diệt lạnh lẽo, **Frostbomb** phát nổ và **đóng 
 
 Vũ khí chiến tranh điện tử hiện đại, **EMP Bomb** phát nổ và **phóng ra xung điện từ**, **vô hiệu hóa tất cả xe cộ, trụ phòng thủ và công trình điện tử trong khu vực**!
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/empbomb2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/empbomb2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -175,7 +186,8 @@ Vũ khí chiến tranh điện tử hiện đại, **EMP Bomb** phát nổ và *
 
 Dựa trên trận pháp huyền thoại trong **Tru Tiên**, **Tru Tiên Kiếm Trận** triệu hồi **một cơn mưa kiếm** tấn công liên tục, kết thúc bằng **một thanh Tru Tiên đại kiếm khổng lồ từ trên trời giáng xuống**, **xé toạc chiến trường và hủy diệt mọi thứ!**
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/swordstorm2.mp4">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/swordstorm2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -184,28 +196,3 @@ Dựa trên trận pháp huyền thoại trong **Tru Tiên**, **Tru Tiên Kiếm
 - **Triệu hồi hàng trăm thanh kiếm từ trên trời rơi xuống**, **liên tục gây sát thương diện rộng**.
 - **Kết thúc bằng một thanh Tru Tiên khổng lồ**, **gây vụ nổ cực mạnh, hủy diệt hoàn toàn khu vực trung tâm**.
 - **Không thể né tránh, chỉ có thể chịu trận!**
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const videos = document.querySelectorAll("video[data-src]");
-
-    const lazyLoadVideo = (video) => {
-      if (video.getAttribute("data-src")) {
-        video.setAttribute("src", video.getAttribute("data-src"));
-        video.removeAttribute("data-src");
-      }
-    };
-
-    const observer = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          lazyLoadVideo(entry.target);
-          observer.unobserve(entry.target);
-        }
-      });
-    });
-
-    videos.forEach(video => observer.observe(video));
-  });
-</script>
-
