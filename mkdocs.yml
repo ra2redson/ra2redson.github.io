@@ -26,15 +26,16 @@ nav:
     - Giới Thiệu: index2.md
     - Có gì mới ?: NEWS2.md
     - Hướng Dẫn Chiến Dịch:
-      - Chiến Dịch Gốc Đồng Minh:
-      - Chiến Dịch Gốc Soviet:
-      - Chiến Dịch Tái Khởi Động Soviet:
-      - Chiến Dịch Gốc Yuri:
-      - Chiến Dịch Yuri Báo Thù:
-      - Chiến Dịch Lúc Bình Minh:
-      - Chiến Dịch Lúc Hừng Đông:
-      - Chiến Dịch Soviet Mở Rộng:
-      - Chiến Dịch Yuri Mở Rộng:
+      - Gốc Đồng Minh: MSORGINALAL.MD
+      - Gốc Soviet: MSORGINALSV.MD
+      - Tái Khởi Động Đồng Minh: MSREALLIED.MD
+      - Tái Khởi Động Soviet: MSRESOVIET.MD
+      - Gốc Yuri: MSORGINALYR.MD
+      - Yuri Báo Thù: MSYURIRE.MD
+      - Lúc Bình Minh: MSALERTDAWN.MD
+      - Lúc Hừng Đông: MSALERTSUN.MD
+      - Soviet Mở Rộng: MSNEWSOVIET.MD
+      - Yuri Mở Rộng: MSNEWYURI.MD
     - Thông Tin Tác Giả: INFO2.md
     - Youtube: https://www.youtube.com/@mr.solobdu
     - DONATE: DONATE2.md
