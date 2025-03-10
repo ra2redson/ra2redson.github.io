@@ -1,7 +1,8 @@
 
 **RA2 SuperHero - Cuộc Chiến Siêu Anh Hùng Trong Thế Giới Red Alert 2**
 
-**RA2 SuperHero** là một bản mod đặc biệt của **Red Alert 2 Yuri Revenge**, lấy cảm hứng từ các **siêu anh hùng** nổi tiếng, mang đến những trận chiến hoành tráng chưa từng có!
+Phiên bản Redson V2.0 đưa thế giới Red Alert 2 vào một viễn cảnh hoàn toàn mới, nơi những siêu anh hùng và ác nhân bước vào chiến trường đầy khốc liệt.
+Lấy cảm hứng từ Superman: Red Son, bản mod này xoay quanh Superman Redson, kẻ không còn là biểu tượng công lý của nước Mỹ mà trở thành người bảo hộ Liên Xô, thống trị thế giới bằng sức mạnh áp đảo.
 
 🔥 **Nguồn gốc & Ý tưởng**
 
@@ -9,11 +10,13 @@ Bản mod này bắt nguồn ý tưởng từ mod **Expandables**, nhưng đã �
 
 ⚡ **Điểm nổi bật**
 
-✅ **Dàn nhân vật siêu anh hùng** với sức mạnh độc nhất  
-✅ **Kỹ năng & hiệu ứng chiến đấu hoành tráng**  
-✅ **AI thông minh hơn**, thử thách hơn  
+✅ **Dàn nhân vật siêu anh hùng và ác nhân** với sức mạnh độc nhất đến từ DC, Marvel, Anime
+✅ **Kỹ năng & hiệu ứng chiến đấu hoành tráng đẹp mắt**  
+✅ **AI thông minh hơn**, thử thách hơn và cực kỳ dồn dập
 ✅ **Đồ họa nâng cấp**, nhưng vẫn tôn trọng phong cách RA2 cổ điển  
-✅ **Lối chơi chiến thuật sâu**, vừa quen thuộc vừa sáng tạo
+✅ **Lối chơi train chủ đạo**, lựa chọn tối ưu nhất để nhanh chóng giành chiến thắng
+✅ **Thư Viện Siêu Vũ Khí Đồ Sộ** : hoành tráng và vô cùng khủng khiếp
+✅ **Phong cách MOD** : nhanh, mạnh mẽ, hùng tráng, giải trí
 
 Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng** và chinh phục chiến trường **RA2 SuperHero** chưa? 🚀
 
