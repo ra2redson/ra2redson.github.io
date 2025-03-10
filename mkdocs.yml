@@ -34,6 +34,10 @@ extra:
 extra_javascript:
   - javascripts/custom.js
 theme:
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
   language: vi 
   name: material
   palette:
