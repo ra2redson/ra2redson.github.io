@@ -134,7 +134,12 @@ Một máy bay chiến đấu **được trang bị hỏa lực kinh hoàng**, H
 **Cryocopter – Trực Thăng Đóng Băng**
 
 Một máy bay chiến thuật **không tấn công trực tiếp**, nhưng lại **biến quân địch thành tượng băng**, khiến chúng **bất lực trước mọi đòn đánh**.
-
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/cryochop.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **Kỹ năng:**
 
 - **Tia Đông Cứng ❄️🔫** – *Bắn ra một **luồng băng siêu lạnh**, làm **đóng băng kẻ địch và phương tiện**, khiến chúng **không thể di chuyển hoặc tấn công**.*
