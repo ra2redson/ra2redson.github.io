@@ -49,6 +49,8 @@ extra:
       link: /eng/
       lang: en
       class: lang-switch
+extra_css:
+  - stylesheets/extra.css
 extra_javascript:
   - javascripts/custom.js
 theme:
