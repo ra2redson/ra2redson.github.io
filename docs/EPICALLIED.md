@@ -77,7 +77,7 @@ Một thực thể **khổng lồ**, mang trong mình **sức mạnh của nhữ
 Một chiến binh **bước ra từ bóng tối**, sở hữu những đường kiếm **sát khí lan tỏa như tia chớp**, không ai có thể nhìn thấy **King Samurai** ra tay – chỉ có thể **nhận lấy cái chết**.
 <div style="text-align: center;">
   <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
-    <source src="/videos/kingsamurai" type="video/mp4">
+    <source src="/videos/kingsamurai.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
