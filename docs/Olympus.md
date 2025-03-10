@@ -14,6 +14,8 @@
 - Có thể triệu hồi THANOS
   
 - Một số siêu vũ khí được làm riêng cho phe này.
+
+- *Lưu ý : cần mua Nhà Olympus Barrack để có đầy đủ các siêu vũ khí.*
   
 
 <br><br><br> <!-- Thêm khoảng trống -->
