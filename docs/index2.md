@@ -1,5 +1,5 @@
 
-### **Ra2 SuperHero Redson V2.0 – Chiến Dịch Huyền Thoại** 🎖
+**Ra2 SuperHero Redson V2.0 – Chiến Dịch Huyền Thoại** 🎖
 
 Bước vào **chế độ Campaign** của **Ra2 SuperHero Redson V2.0**, nơi những **trận chiến kinh điển** của **Red Alert 2** được tái hiện với một sức mạnh mới: **sự trợ giúp từ các siêu anh hùng!**
 
