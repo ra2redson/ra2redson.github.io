@@ -42,4 +42,4 @@
     
   - CNC Client có nhiều tuỳ chọn options, có thể chơi online, LAN.
 
-    
+  - Phiên Bản Skirnish run game bằng file RSCLIENT.EXE
