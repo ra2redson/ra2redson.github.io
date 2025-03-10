@@ -34,7 +34,7 @@ Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổn
 
 Bắn **một viên đạn Atlas siêu cấp**, tạo ra **một vụ nổ lớn** tại điểm va chạm. Sau đó, **sóng xung kích lan rộng**, **gây sát thương liên hoàn** ra xung quanh.
 <div style="text-align: center;">
-  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/atlas2.mp4">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/atlas.mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -186,22 +186,26 @@ Dựa trên trận pháp huyền thoại trong **Tru Tiên**, **Tru Tiên Kiếm
 - **Không thể né tránh, chỉ có thể chịu trận!**
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const video = document.querySelector("video");
-  
-  if ("IntersectionObserver" in window) {
+  document.addEventListener("DOMContentLoaded", function () {
+    const videos = document.querySelectorAll("video[data-src]");
+
+    const lazyLoadVideo = (video) => {
+      if (video.getAttribute("data-src")) {
+        video.setAttribute("src", video.getAttribute("data-src"));
+        video.removeAttribute("data-src");
+      }
+    };
+
     const observer = new IntersectionObserver((entries, observer) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
-          video.src = video.getAttribute("data-src");
-          video.play();
-          observer.unobserve(video);
+          lazyLoadVideo(entry.target);
+          observer.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.5 });
+    });
 
-    observer.observe(video);
-  }
-});
+    videos.forEach(video => observer.observe(video));
+  });
 </script>
 
