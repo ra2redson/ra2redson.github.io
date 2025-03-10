@@ -1,5 +1,6 @@
 site_name: Ra2 SuperHero Redson V2.0
 nav:
+- SKIRNISH MODE:
   - Giới Thiệu: index.md
   - Có gì mới ?: NEWS.md
   - Siêu Anh Hùng:
@@ -21,6 +22,7 @@ nav:
   - Thông Tin Tác Giả: INFO.md
   - Youtube: https://www.youtube.com/@mr.solobdu
   - DONATE: DONATE.md
+- CAMPAIGN MODE:
 extra:
   alternate:
     - name: 🇻🇳 Tiếng Việt
