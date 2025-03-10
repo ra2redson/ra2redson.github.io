@@ -3,7 +3,11 @@
 **Lightning Storm – Bão Sét** (MỸ-HÀN)
 
 Triệu hồi **một cơn bão sấm sét khổng lồ**, giáng **liên tiếp hàng chục tia sét** xuống chiến trường, **hủy diệt xe cộ, bộ binh và công trình** trong phạm vi rộng lớn.
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/lightning.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **⚡Tác dụng:**
 
 - Gây **sát thương ngẫu nhiên** trong khu vực ảnh hưởng.
@@ -14,7 +18,11 @@ Triệu hồi **một cơn bão sấm sét khổng lồ**, giáng **liên tiếp
 **Ion Cannon – Cơn Lốc Chết Chóc** (NHẬT BẢN)
 
 Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổng lồ**, kéo tất cả **xe cộ** về trung tâm. Sau đó, **một luồng năng lượng Ion hủy diệt** sẽ giáng xuống, **thiêu rụi toàn bộ khu vực**!
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/ioncannon.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **🌪️Tác dụng:**
 
 - **Hút tất cả đơn vị trong vùng ảnh hưởng về trung tâm**, khiến chúng **không thể thoát ra**.
@@ -25,7 +33,11 @@ Trước khi khai hỏa, **Ion Cannon** tạo ra **một cơn lốc xoáy khổn
 **Atlas Cannon – Vụ Nổ Địa Chấn** (ANH-CANADA)
 
 Bắn **một viên đạn Atlas siêu cấp**, tạo ra **một vụ nổ lớn** tại điểm va chạm. Sau đó, **sóng xung kích lan rộng**, **gây sát thương liên hoàn** ra xung quanh.
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/atlas.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **🔥Tác dụng:**
 
 - **Vụ nổ đầu tiên** gây sát thương lớn ngay tại điểm chạm.
@@ -36,7 +48,11 @@ Bắn **một viên đạn Atlas siêu cấp**, tạo ra **một vụ nổ lớn
 **Particle Cannon – Vũ Khí Tử Thần Có Thể Điều Khiển** (PHÁP-ĐỨC)
 
 Bắn **một tia năng lượng tập trung** có thể **chọn mục tiêu và điều khiển hướng di chuyển**, **quét sạch chiến trường** theo ý muốn!
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/particle.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **⚡Tác dụng:**
 
 - **Người chơi có thể di chuyển tia bắn**, giúp tối ưu hóa sát thương.
@@ -50,7 +66,11 @@ Bắn **một tia năng lượng tập trung** có thể **chọn mục tiêu v�
 **Nuke – Đòn Trừng Phạt Hạt Nhân** (NƯỚC NGA)
 
 Phóng **một quả bom hạt nhân** cực mạnh xuống chiến trường, tạo ra **một vụ nổ khổng lồ**, **thiêu rụi mọi thứ** trong phạm vi ảnh hưởng.
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/nuke.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **💀Tác dụng:**
 
 - **Sát thương khủng khiếp**, xóa sổ **mọi đơn vị trong tâm vụ nổ**.
@@ -61,7 +81,11 @@ Phóng **một quả bom hạt nhân** cực mạnh xuống chiến trường, t
 **Inferno Nuke – Hạt Nhân Địa Ngục** (CUBA,LYBIA)
 
 Một **quả bom hạt nhân đặc biệt**, không chỉ tạo ra **một vụ nổ khổng lồ**, mà còn **kéo theo một biển lửa rực cháy**, **thiêu rụi toàn bộ khu vực trong thời gian dài**!
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/inferno.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **🔥Tác dụng:**
 
 - **Sát thương hạt nhân ban đầu cực lớn**, xóa sổ mọi thứ trong tâm vụ nổ.
@@ -72,7 +96,11 @@ Một **quả bom hạt nhân đặc biệt**, không chỉ tạo ra **một v�
 **Radbomb – Bom Phóng Xạ** (IRAQ)
 
 Không có một vụ nổ dữ dội, nhưng **Radbomb** lại gieo rắc **một cơn ác mộng chết chóc** bằng **bức xạ siêu mạnh**, biến khu vực trúng bom thành **vùng đất tử thần** trong một khoảng thời gian dài.
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/radbomb.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **☣Tác dụng:**
 
 - Để lại **một khu vực nhiễm phóng xạ cực lâu**, khiến **bất kỳ ai đi vào đều bị suy yếu và chết dần theo thời gian**.
@@ -85,7 +113,11 @@ Không có một vụ nổ dữ dội, nhưng **Radbomb** lại gieo rắc **m�
 **Psychic Dominator – Trùm Tâm Linh** (YURI)
 
 Vũ khí tối thượng của Yuri, **Psychic Dominator** giải phóng **một làn sóng năng lượng tâm linh cực mạnh**, **bóp méo không gian thực tại** và **điều khiển toàn bộ đơn vị đối phương** trong khu vực ảnh hưởng!
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/psychic.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **🌀 Tác dụng:**
 
 - **Gây sát thương khủng khiếp** lên tất cả đơn vị trong vùng ảnh hưởng.
@@ -96,7 +128,11 @@ Vũ khí tối thượng của Yuri, **Psychic Dominator** giải phóng **một
 **Sauron Eye – Cơn Thịnh Nộ Của Chúa Tể Bóng Tối** (NHÀ DỊ NHÂN)
 
 Một tuyệt tác chiến tranh của MUTANT, **Sauron Eye** triệu hồi **hàng ngàn con mắt ma thuật** bay lơ lửng trên chiến trường, **tấn công liên tục mọi kẻ thù trong khu vực rộng lớn**. **Không ai có thể trốn thoát khỏi ánh nhìn hủy diệt này!**
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/sauroneye.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **👁 Tác dụng:**
 
 - **Triệu hồi hàng ngàn con mắt ma thuật**, mỗi con mắt sẽ **tấn công liên tục vào các mục tiêu khác nhau**.
@@ -109,7 +145,11 @@ Một tuyệt tác chiến tranh của MUTANT, **Sauron Eye** triệu hồi **h�
 **Frostbomb – Quả Bom Băng Giá**  (TRIỀU TIÊN)
 
 Một vũ khí hủy diệt lạnh lẽo, **Frostbomb** phát nổ và **đóng băng toàn bộ khu vực**, khiến kẻ địch **bị tê liệt hoàn toàn** trong một khoảng thời gian dài.
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/frostbomb.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **❄ Tác dụng:**
 
 - **Toàn bộ đơn vị trong vùng ảnh hưởng sẽ bị đóng băng**, **không thể di chuyển hay tấn công**.
@@ -120,7 +160,11 @@ Một vũ khí hủy diệt lạnh lẽo, **Frostbomb** phát nổ và **đóng 
 **EMP Bomb – Quả Bom Tê Liệt** (VIỆT NAM)
 
 Vũ khí chiến tranh điện tử hiện đại, **EMP Bomb** phát nổ và **phóng ra xung điện từ**, **vô hiệu hóa tất cả xe cộ, trụ phòng thủ và công trình điện tử trong khu vực**!
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/empbomb.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **⚡ Tác dụng:**
 
 - **Tất cả xe cộ, máy móc và trụ phòng thủ trong khu vực sẽ bị vô hiệu hóa**, **không thể hoạt động trong một thời gian**.
@@ -130,9 +174,34 @@ Vũ khí chiến tranh điện tử hiện đại, **EMP Bomb** phát nổ và *
 **Tru Tiên Kiếm Trận – Trận Pháp Tru Tiên** (TRUNG QUỐC)
 
 Dựa trên trận pháp huyền thoại trong **Tru Tiên**, **Tru Tiên Kiếm Trận** triệu hồi **một cơn mưa kiếm** tấn công liên tục, kết thúc bằng **một thanh Tru Tiên đại kiếm khổng lồ từ trên trời giáng xuống**, **xé toạc chiến trường và hủy diệt mọi thứ!**
-
+<div style="text-align: center;">
+  <video loop muted playsinline style="max-width: 100%; width: 500px;" data-src="/videos/swordstorm.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 **⚔ Tác dụng:**
 
 - **Triệu hồi hàng trăm thanh kiếm từ trên trời rơi xuống**, **liên tục gây sát thương diện rộng**.
 - **Kết thúc bằng một thanh Tru Tiên khổng lồ**, **gây vụ nổ cực mạnh, hủy diệt hoàn toàn khu vực trung tâm**.
 - **Không thể né tránh, chỉ có thể chịu trận!**
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const video = document.querySelector("video");
+  
+  if ("IntersectionObserver" in window) {
+    const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          video.src = video.getAttribute("data-src");
+          video.play();
+          observer.unobserve(video);
+        }
+      });
+    }, { threshold: 0.5 });
+
+    observer.observe(video);
+  }
+});
+</script>
+
