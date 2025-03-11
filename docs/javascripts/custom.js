@@ -18,11 +18,5 @@ document.addEventListener("touchstart", function (event) {
                 console.log("Menu or button not found"); // Debug nếu không tìm thấy phần tử
             }
         }
-    }
-document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll("span.md-ellipsis").forEach(el => {
-        if (el.innerText.trim() === "SKIRNISH MODE") {
-            el.closest("label").remove(); // Xóa cả <label> chứa nó
-        }
-    });
+    } // <-- Dấu } bị thiếu ở đây
 });
