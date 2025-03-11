@@ -1,33 +1,12 @@
-/* Hero Section */
 .hero {
-  text-align: center;
-  padding: 200px 20px;
-  background: url("/assets/background.jpg") no-repeat center center;
-  background-size: cover;
-  color: white;
-}
-
-.hero h1 {
-  font-size: 3rem;
-  font-weight: bold;
-}
-
-.hero p {
-  font-size: 1.5rem;
-  margin-bottom: 20px;
-}
-
-.hero-button {
-  display: inline-block;
-  padding: 15px 30px;
-  font-size: 1.2rem;
-  color: white;
-  background: #ff5722;
-  border-radius: 5px;
-  text-decoration: none;
-  transition: 0.3s;
-}
-
-.hero-button:hover {
-  background: #e64a19;
+    background: url('assets/background.jpg') no-repeat center center;
+    background-size: cover;
+    height: 400px; /* Điều chỉnh chiều cao nếu cần */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white; /* Đổi màu chữ nếu cần */
+    font-size: 2em;
+    font-weight: bold;
 }
