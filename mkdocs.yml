@@ -63,14 +63,15 @@ theme:
   language: vi 
   name: material
   palette:
-    primary: red
-    accent: deep orange
-  - scheme: default
-    toggle:
-      icon: material/weather-night
-      name: Chuyển sang chế độ tối
-  - scheme: slate
-    toggle:
-      icon: material/weather-sunny
-      name: Chuyển sang chế độ sáng
-      
+    - scheme: default
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Chuyển sang chế độ tối
+    - scheme: slate
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Chuyển sang chế độ sáng
