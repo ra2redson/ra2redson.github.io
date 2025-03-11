@@ -15,8 +15,8 @@
 }
 
 :root {
-  --light-background: url("/assets/background.jpg");
-  --dark-background: url("/assets/background2.jpg");
+  --light-background: url("../assets/background.jpg");
+  --dark-background: url("../assets/background2.jpg");
 }
 
 /* Áp dụng nền cho chế độ sáng */
