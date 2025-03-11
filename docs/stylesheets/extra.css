@@ -13,15 +13,4 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 /* Áp dụng ảnh nền cho html */
 }
-label#__nav_1_label {
-    background-color: #f0f0f0 !important; /* Màu xám nhạt */
-    color: #888 !important; /* Màu chữ xám nhạt */
-    padding: 10px !important; /* Thêm khoảng cách nếu cần */
-    border-radius: 5px; /* Bo góc nhẹ */
-}
 
-div.md-sidebar__inner {
-    background-color: rgba(0, 0, 0, 0.05); /* Màu xám nhạt */
-    border-radius: 8px; /* Bo góc nhẹ */
-    padding: 8px; /* Tạo khoảng cách bên trong */
-}
