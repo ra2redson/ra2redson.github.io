@@ -1,1 +1,5 @@
- 
+/* Gradient cho thanh header */
+.md-header {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b) !important;
+    background-color: unset !important; /* Xóa màu nền đơn */
+}
