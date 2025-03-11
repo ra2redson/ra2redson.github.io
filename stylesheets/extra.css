@@ -14,15 +14,9 @@
 /* Áp dụng ảnh nền cho html */
 }
 
-div.md-sidebar__inner {
-    background-color: rgba(0, 0, 0, 0.05); /* Màu xám nhạt */
-    border-radius: 8px; /* Bo góc nhẹ */
-    padding: 8px; /* Tạo khoảng cách bên trong */
-}
-
+.md-sidebar, 
+.md-sidebar__inner, 
 .md-sidebar.md-sidebar--primary {
     background-color: rgba(0, 0, 0, 0.05) !important;
-    padding: 10px;
-    border-radius: 5px;
 }
 
