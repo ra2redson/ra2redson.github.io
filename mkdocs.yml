@@ -20,7 +20,7 @@ nav:
     - Đỉnh Olympus: Olympus.md
     - Hướng Dẫn Client: CLIENT.md
     - Thông Tin Tác Giả: INFO.md
-    - Youtube: https://www.youtube.com/@mr.solobdu
+    - Youtube: "[Youtube](https://www.youtube.com/@mr.solobdu){target=_blank}"
     - DONATE: DONATE.md
   - Campaign Version:
     - Giới Thiệu: index2.md
@@ -38,7 +38,7 @@ nav:
       - Soviet Mở Rộng: MSNEWSOVIET.md
       - Yuri Mở Rộng: MSNEWYURI.md
     - Thông Tin Tác Giả: INFO2.md
-    - Youtube: https://www.youtube.com/@mr.solobdu
+    - Youtube: "[Youtube](https://www.youtube.com/@mr.solobdu){target=_blank}"
     - DONATE: DONATE2.md
 extra:
   alternate:
