@@ -14,8 +14,9 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 body {
-    background-color: white;
-    background-image: linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd),
-                      linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd);
-    background-size: 20px 20px;
+    background-image: url('/assets/background.jpg');
+    background-size: cover; /* Hoặc contain nếu muốn hiển thị toàn bộ */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Giữ cố định khi cuộn trang */
 }
