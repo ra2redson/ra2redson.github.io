@@ -26,7 +26,7 @@
 
 **Hack Money**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
+  <video autoplay loop muted playsinline style="width: 450px; height: 296px; object-fit: cover; display: block;">
     <source src="/videos/hackmoney.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
