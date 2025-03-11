@@ -20,5 +20,9 @@ document.addEventListener("touchstart", function (event) {
         }
     }
 document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll(".md-sidebar .md-nav__title").forEach(el => el.remove());
+    document.querySelectorAll("label.md-nav__link").forEach(el => {
+        if (el.textContent.trim() === "SKIRMISH MODE") {
+            el.remove();
+        }
+    });
 });
