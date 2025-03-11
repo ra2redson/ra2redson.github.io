@@ -26,7 +26,7 @@
 
 **Hack Money**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/hackmoney.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -36,7 +36,7 @@ Thả vào ngay nhà chính AI, AI sẽ được cộng ngay 100.000 vàng
 
 **Doctor's Special**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/heal.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -46,13 +46,13 @@ Hồi máu cho các đơn vị trong 1 vùng nhỏ
 
 **ColdZone + FireZone**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/coldzone.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/firezone.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -62,7 +62,7 @@ Cổng năng lượng đóng băng tạm thời + gây bỏng tạm thời
 
 **ICE RINK**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/icerink.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -72,7 +72,7 @@ Cổng năng lượng đóng băng tạm thời + gây bỏng tạm thời
 
 **ClearX**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/clearx.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -82,7 +82,7 @@ Tia X Xoá cổng + ICE RINK
 
 **Super Chrono Sphere**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/superchrono.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -92,7 +92,7 @@ Ngoài dịch chuyển lính, còn có thể dịch chuyển được các toà 
 
 **Martydoom BUFF**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/buff.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -102,7 +102,7 @@ Buff siêu cấp, giải phóng tiềm năng mạnh mẽ, khiến đơn vị đ�
 
 **Summon Epic Units**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/summonepic.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -112,7 +112,7 @@ Triệu hồi các Siêu Người Máy
 
 **Summon SuperHeros**
 <div style="text-align: center;">
-  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 450px;">
     <source src="/videos/summonhero.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
