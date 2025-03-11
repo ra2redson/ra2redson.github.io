@@ -15,12 +15,12 @@
 }
 
 html[data-md-color-scheme="default"] {
-    background: white url('/assets/background.jpg') repeat;
-    background-size: cover;
+    background: white url('/assets/background.jpg') repeat !important;
+    background-size: cover !important;
+}
+html[data-md-color-scheme="slate"] {
+    background: black url('/assets/background2.jpg') repeat !important;
+    background-size: cover !important;
 }
 
-html[data-md-color-scheme="slate"] {
-    background: black url('/assets/background2.jpg') repeat;
-    background-size: cover;
-}
 
