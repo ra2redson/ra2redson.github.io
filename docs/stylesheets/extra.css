@@ -14,9 +14,8 @@
 /* Áp dụng ảnh nền cho html */
 }
 
-body {
-    background-color: white;
-    background-image: linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd),
-                      linear-gradient(45deg, #ddd 25%, transparent 25%, transparent 75%, #ddd 75%, #ddd);
-    background-size: 20px 20px;
+.md-sidebar {
+    background-color: rgba(200, 200, 200, 0.2); /* Xám nhẹ */
+    padding: 10px; /* Thêm khoảng cách cho đẹp */
+    border-radius: 8px; /* Bo góc nhẹ */
 }
