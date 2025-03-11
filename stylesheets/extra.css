@@ -13,10 +13,3 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 /* Áp dụng ảnh nền cho html */
 }
-
-.md-sidebar, 
-.md-sidebar__inner, 
-.md-sidebar.md-sidebar--primary {
-    background-color: rgba(0, 0, 0, 0.05) !important;
-}
-
