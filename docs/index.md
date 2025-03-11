@@ -78,16 +78,4 @@ Phiên Bản Giải Nén ZIP
     filter: brightness(1.1);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
   }
-</style>
----
-hide:
-  - navigation
-  - toc
----
 
-<!-- Hero Section -->
-<div class="hero">
-  <h1>Ra2 SuperHero Redson V2.0</h1>
-  <p>Một bản mod đỉnh cao dành cho Red Alert 2!</p>
-  <a href="https://www.youtube.com/@mr.solobdu" class="hero-button">Xem trên YouTube</a>
-</div>
