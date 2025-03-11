@@ -1,17 +1,41 @@
-Ra2 SuperHero Redson V2.0 – Chiến Dịch Huyền Thoại 🎖
 
-Bước vào chế độ Campaign của Ra2 SuperHero Redson V2.0, nơi những trận chiến kinh điển của Red Alert 2 được tái hiện với một sức mạnh mới: sự trợ giúp từ các siêu anh hùng!
+**RA2 SuperHero - Cuộc Chiến Siêu Anh Hùng Trong Thế Giới Red Alert 2**
 
-💥 Chiến đấu trong những chiến dịch huyền thoại:
+Phiên bản Redson V2.0 đưa thế giới Red Alert 2 vào một viễn cảnh hoàn toàn mới, nơi những siêu anh hùng và ác nhân bước vào chiến trường đầy khốc liệt.
+Lấy cảm hứng từ Superman: Red Son, bản mod này xoay quanh Superman Redson, kẻ không còn là biểu tượng công lý của nước Mỹ mà trở thành người bảo hộ Liên Xô, thống trị thế giới bằng sức mạnh áp đảo.
 
-✔ Red Alert 2 Original – Cuộc chiến giữa Đồng Minh & Xô Viết bùng nổ!
+🔥 **Nguồn gốc & Ý tưởng**
 
-✔ Red Alert 2 Tái Khởi Động – Khi những bóng ma quá khứ chưa bao giờ thật sự biến mất...
+Bản mod này bắt nguồn ý tưởng từ mod **Expandables**, nhưng đã được **viết lại hoàn toàn**, từ **AI**, **kỹ năng**, **đồ họa**, cho đến **cách vận hành skill**. Dù có nhiều thay đổi, RA2 SuperHero vẫn **giữ trọn tinh thần của Red Alert 2 gốc**, mang đến trải nghiệm quen thuộc nhưng mới mẻ.
 
-✔ Yuri’s Revenge – Mối đe dọa tâm linh của Yuri trở lại mạnh mẽ hơn bao giờ hết.
+⚡ **Điểm nổi bật**
 
-✔ Sự Báo Thù của Yuri’s – Một Yuri được tái sinh, trở lại chiếm lấy toàn bộ nhân loại một cách tàn bạo cùng sức mạnh vô cùng khủng khiếp.
+✅ **Dàn nhân vật siêu anh hùng và ác nhân** với sức mạnh độc nhất đến từ DC, Marvel, Anime
 
-✔ Alert Dawn & Alert Sun – Những chương mới của chiến tranh thế giới trong vũ trụ Red Alert với mức độ khó một cách cực đoan.
+✅ **Kỹ năng & hiệu ứng chiến đấu hoành tráng đẹp mắt**  
 
-✔ Cùng các chuỗi nhiệm vụ vui vẻ khác 
+✅ **AI thông minh hơn**, thử thách hơn và cực kỳ dồn dập
+
+✅ **Đồ họa nâng cấp**, nhưng vẫn tôn trọng phong cách RA2 cổ điển  
+
+✅ **Lối chơi train chủ đạo**, lựa chọn tối ưu nhất để nhanh chóng giành chiến thắng
+
+✅ **Thư Viện Siêu Vũ Khí Đồ Sộ** : hoành tráng và vô cùng khủng khiếp
+
+✅ **Phong cách MOD** : nhanh, mạnh mẽ, hùng tráng, giải trí
+
+Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng** và chinh phục chiến trường **RA2 SuperHero** chưa? 🚀
+
+👉 **Tải ngay & trải nghiệm!**
+
+Phiên Bản Cài Đặt EXE
+
+<a href="link_tải_game" class="download-btn green-btn">
+    <span>⬇ RA2SH.EXE</span>
+</a>
+
+Phiên Bản Giải Nén ZIP
+
+<a href="link_tải_game" class="download-btn orange-btn">
+    <span>⬇ RA2SH.ZIP</span>
+</a>
