@@ -19,10 +19,3 @@ document.addEventListener("touchstart", function (event) {
             }
         }
     }
-document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll("label.md-nav__link").forEach(el => {
-        if (el.innerText.trim().includes("SKIRMISH MODE")) {
-            el.parentElement.remove(); // Xóa cả thẻ cha chứa nó
-        }
-    });
-});
