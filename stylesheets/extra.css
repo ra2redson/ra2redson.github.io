@@ -5,16 +5,18 @@
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
-
+/* Gradient ngược lại cho tab */
+.md-tabs {
+    background: linear-gradient(90deg, #ff7f50, #a0522d) !important;
+    color: #ffffff !important;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 /* Áp dụng ảnh nền cho html */
 html {
     background: url('/assets/background.jpg') repeat;
     background-size: cover;
 }
 
-/* Đảm bảo body không ghi đè */
-body {
-    background: none !important;
-}
+
 
 
