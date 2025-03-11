@@ -14,18 +14,15 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-html {
-    background-image: url('/assets/background.jpg'); /* Hình nền tổ ong */
+body {
+    background-image: url('/assets/background.jpg'); /* Đường dẫn đến ảnh nền */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
-/* Dark mode chỉ ảnh hưởng phần body, không ảnh hưởng background */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: var(--background-color, #121212);
-        color: var(--text-color, white);
-    }
+/* Đảm bảo dark mode không làm mất nền */
+[data-md-color-scheme="default"] body, 
+[data-md-color-scheme="slate"] body {
+    background-image: url('/assets/background.jpg');
 }
