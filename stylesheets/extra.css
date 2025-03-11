@@ -16,3 +16,8 @@
 label#_nav_1_label.md-nav__link {
     display: none !important;
 }
+div.md-sidebar__inner {
+    background-color: rgba(0, 0, 0, 0.05); /* Màu xám nhạt */
+    border-radius: 8px; /* Bo góc nhẹ */
+    padding: 8px; /* Tạo khoảng cách bên trong */
+}
