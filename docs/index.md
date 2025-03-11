@@ -31,9 +31,14 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
 Phiên Bản Cài Đặt EXE
 
 <a href="link_tải_game" class="download-btn green-btn">
-    <span>⬇ RA2SH.EXE</span>
+    <span>⬇ RA2SHC.EXE</span>
 </a>
 
+Phiên Bản Giải Nén ZIP
+
+<a href="link_tải_game" class="download-btn orange-btn">
+    <span>⬇ RA2SHC.ZIP</span>
+</a>
 
 <style>
   /* CSS chung cho nút */
@@ -73,9 +78,5 @@ Phiên Bản Cài Đặt EXE
     filter: brightness(1.1);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
   }
+</style>
 
-Phiên Bản Giải Nén ZIP
-
-<a href="link_tải_game" class="download-btn orange-btn">
-    <span>⬇ RA2SH.ZIP</span>
-</a>
