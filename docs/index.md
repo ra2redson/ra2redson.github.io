@@ -34,7 +34,7 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
     <b>Phiên Bản Cài Đặt EXE</b>  
     <br>
     <a href="link_tải_game" class="download-btn green-btn">
-        <span>⬇ RA2SH.EXE</span>
+        <span>⬇ RA2SH.exe </span>
     </a>
 
     <br><br>
@@ -42,7 +42,7 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
     <b>Phiên Bản Giải Nén ZIP</b>  
     <br>
     <a href="link_tải_game" class="download-btn orange-btn">
-        <span>⬇ RA2SH.ZIP</span>
+        <span>⬇ RA2SH.zip </span>
     </a>
 </div>
 
@@ -54,8 +54,8 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
     align-items: center;
     justify-content: center;
     gap: 8px;
-    padding: 6px 24px;
-    font-size: 18px;
+    padding: 5px 24px;
+    font-size: 14px;
     font-weight: bold;
     color: #ffffff !important;
     border-radius: 4px;
