@@ -19,3 +19,10 @@ document.addEventListener("touchstart", function (event) {
             }
         }
     }
+document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll("span.md-ellipsis").forEach(el => {
+        if (el.innerText.trim() === "SKIRNISH MODE") {
+            el.closest("label").remove(); // Xóa cả <label> chứa nó
+        }
+    });
+});
