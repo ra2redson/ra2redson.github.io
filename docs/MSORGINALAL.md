@@ -4,8 +4,10 @@
 
 Liên Xô đã xâm lược. Chúng đông hơn ta mười lần. Bạn phải hỗ trợ đặc vụ Tanya tại New York. Chúng tôi đang tập hợp lực lượng nhanh nhất có thể, nhưng chúng tôi cần thời gian. Một căn cứ nhỏ của Mỹ, Fort Bradley, nằm trong khu vực New York. Nếu bạn có thể liên lạc với họ, họ có thể hỗ trợ trong việc bảo vệ New York. Tanya sẽ di chuyển qua một chiến trường hỗn loạn. Hãy chú ý đến các mục tiêu quan trọng và theo dõi các nhiệm vụ mới.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJErZ-B50Ko" 
-frameborder="0" allowfullscreen></iframe>
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UJErZ-B50Ko" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
 
 🎯 **Mục tiêu:**
 
