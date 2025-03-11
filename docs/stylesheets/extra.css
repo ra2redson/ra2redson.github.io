@@ -2,7 +2,7 @@
 .hero {
   text-align: center;
   padding: 200px 20px;
-  background: url("../assets/background.jpg") no-repeat center center;
+  background: url("/assets/background.jpg") no-repeat center center;
   background-size: cover;
   color: white;
 }
