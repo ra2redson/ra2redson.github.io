@@ -15,7 +15,7 @@
 <span style="font-size: 24px; font-weight: bold;">GIAO DIỆN CHÍNH</span>
 
 <p align="center">
-  <img src="assets/1cam.png" alt="Ảnh minh họa">
+  <img src="/assets/1cam.png" alt="Ảnh minh họa">
 </p>
 
 <br><br><br>  <!-- Thêm khoảng trống -->
@@ -23,5 +23,5 @@
 <span style="font-size: 24px; font-weight: bold;">GIAO DIỆN CAMPAIGN</span>
 
 <p align="center">
-  <img src="assets/2cam.png" alt="Ảnh minh họa">
+  <img src="/assets/2cam.png" alt="Ảnh minh họa">
 </p>
