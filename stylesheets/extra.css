@@ -13,9 +13,7 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 /* Áp dụng ảnh nền cho html */
 }
-
-label#_nav_1_label.md-nav__link,
-label#_nav_1_label {
+label#__nav_1_label {
     display: none !important;
 }
 
