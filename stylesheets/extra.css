@@ -14,17 +14,29 @@
 /* Áp dụng ảnh nền cho html */
 }
 
-/* Thêm dấu "|" giữa hai tab */
-.md-tabs__list li {
+/* Định dạng danh sách tab */
+.md-tabs__list {
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 
-/* Chỉ thêm "|" giữa các mục, không thêm vào đầu */
+/* Căn chỉnh khoảng cách giữa các tab */
+.md-tabs__list li {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+/* Thêm dấu "|" giữa các mục, đặt chính giữa */
 .md-tabs__list li + li::before {
     content: "|";
-    margin: 0 10px;
-    color: white; /* Điều chỉnh màu theo thiết kế */
+    margin: 0 15px; /* Điều chỉnh khoảng cách cho phù hợp */
+    color: white; /* Giữ màu trắng cho phù hợp với giao diện */
     font-weight: bold;
     font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
