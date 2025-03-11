@@ -15,9 +15,16 @@
 }
 
 .md-sidebar {
-    background-color: rgba(0, 0, 0, 0.05); /* Màu nền xám nhẹ */
-    border-radius: 10px; /* Bo góc cho đẹp */
+    background-color: rgba(0, 0, 0, 0.05); /* Màu xám nhẹ */
+    border-radius: 10px; /* Bo góc nhẹ */
     padding: 10px; /* Khoảng cách bên trong */
-    margin: 10px; /* Khoảng cách với các phần khác */
-    min-height: 100vh; /* Chiều cao full màn hình */
+    margin: 10px; /* Khoảng cách bên ngoài */
+    min-height: 100vh; /* Kéo dài hết màn hình */
+}
+
+/* Sửa header trong sidebar */
+.md-sidebar h2 {
+    background: none; /* Loại bỏ nền trắng hoặc hiệu ứng mờ */
+    padding: 8px; /* Khoảng cách cho đẹp */
+    border-radius: 8px; /* Bo góc */
 }
