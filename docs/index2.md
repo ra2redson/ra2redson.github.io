@@ -35,13 +35,13 @@ Bạn không còn đơn độc! Các nhiệm vụ giờ đây có sự xuất hi
 Phiên Bản Cài Đặt EXE
 
 <a href="link_tải_game" class="download-btn green-btn">
-    <span>⬇ RA2SHC.EXE</span>
+    <span>⬇ RA2SHC.exe </span>
 </a>
 
 Phiên Bản Giải Nén ZIP
 
 <a href="link_tải_game" class="download-btn orange-btn">
-    <span>⬇ RA2SHC.ZIP</span>
+    <span>⬇ RA2SHC.zip </span>
 </a>
 
 <style>
@@ -52,7 +52,7 @@ Phiên Bản Giải Nén ZIP
     justify-content: center;
     gap: 8px;
     padding: 6px 24px;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: bold;
     color: #ffffff !important;
     border-radius: 4px;
