@@ -14,10 +14,10 @@
 /* Áp dụng ảnh nền cho html */
 }
 
-nav.md-nav,
-label#_nav_1_label.md-nav__link {
-    background-color: rgba(0, 0, 0, 0.05); /* Màu xám nhẹ */
+div.md-sidebar__inner {
+    background-color: rgba(0, 0, 0, 0.05); /* Màu xám nhạt */
     border-radius: 8px; /* Bo góc nhẹ */
-    padding: 4px 8px; /* Tạo khoảng cách nếu cần */
+    padding: 8px; /* Tạo khoảng cách bên trong */
 }
+
 
