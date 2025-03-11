@@ -1,12 +1,1 @@
-.hero {
-    background: url('assets/background.jpg') no-repeat center center;
-    background-size: cover;
-    height: 400px; /* Điều chỉnh chiều cao nếu cần */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: white; /* Đổi màu chữ nếu cần */
-    font-size: 2em;
-    font-weight: bold;
-}
+ 
