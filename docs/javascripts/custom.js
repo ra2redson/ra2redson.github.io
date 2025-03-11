@@ -19,8 +19,6 @@ document.addEventListener("touchstart", function (event) {
             }
         }
     }
-}, { passive: false });
-
 document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll(".md-nav__title").forEach(el => el.remove());
+    document.querySelectorAll(".md-sidebar .md-nav__title").forEach(el => el.remove());
 });
