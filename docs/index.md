@@ -34,6 +34,46 @@ Phiên Bản Cài Đặt EXE
     <span>⬇ RA2SH.EXE</span>
 </a>
 
+
+<style>
+  /* CSS chung cho nút */
+  .download-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 6px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff !important;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Nút màu xanh lá */
+  .green-btn {
+    background-color: #2ea043;
+  }
+  
+  .green-btn:hover {
+    background-color: #238636;
+    filter: brightness(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+  }
+
+  /* Nút màu cam */
+  .orange-btn {
+    background-color: #e5893a; /* Cam đậm hơn */
+  }
+
+  .orange-btn:hover {
+    background-color: #d46a1f; /* Đậm hơn khi hover */
+    filter: brightness(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+  }
+
 Phiên Bản Giải Nén ZIP
 
 <a href="link_tải_game" class="download-btn orange-btn">
