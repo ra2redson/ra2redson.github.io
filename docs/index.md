@@ -31,13 +31,13 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
 Phiên Bản Cài Đặt EXE
 
 <a href="link_tải_game" class="download-btn green-btn">
-    <span>⬇ RA2SHC.EXE</span>
+    <span>⬇ RA2SH.EXE</span>
 </a>
 
 Phiên Bản Giải Nén ZIP
 
 <a href="link_tải_game" class="download-btn orange-btn">
-    <span>⬇ RA2SHC.ZIP</span>
+    <span>⬇ RA2SH.ZIP</span>
 </a>
 
 <style>
