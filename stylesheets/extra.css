@@ -14,21 +14,16 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-:root {
-  --light-background: url("../assets/background.jpg");
-  --dark-background: url("../assets/background2.jpg");
-}
-
-/* Áp dụng nền cho chế độ sáng */
 html[data-md-color-scheme="default"] {
-  background: var(--light-background);
+  background-image: url("../assets/background.jpg");
   background-repeat: repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
-/* Áp dụng nền cho chế độ tối */
 html[data-md-color-scheme="slate"] {
-  background: var(--dark-background);
+  background-image: url("../assets/background2.jpg");
   background-repeat: repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
