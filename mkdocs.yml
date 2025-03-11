@@ -55,6 +55,7 @@ extra_css:
 extra_javascript:
   - javascripts/custom.js
 theme:
+  logo: logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -62,6 +63,8 @@ theme:
   language: vi 
   name: material
   palette:
+    primary: red
+    accent: deep orange
   - scheme: default
     toggle:
       icon: material/weather-night
@@ -70,3 +73,4 @@ theme:
     toggle:
       icon: material/weather-sunny
       name: Chuyển sang chế độ sáng
+      
