@@ -20,3 +20,7 @@ document.addEventListener("touchstart", function (event) {
         }
     }
 }, { passive: false });
+
+document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll(".md-nav__title").forEach(el => el.remove());
+});
