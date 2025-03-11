@@ -20,4 +20,9 @@ div.md-sidebar__inner {
     padding: 8px; /* Tạo khoảng cách bên trong */
 }
 
+.md-sidebar.md-sidebar--primary {
+    background-color: rgba(0, 0, 0, 0.05) !important;
+    padding: 10px;
+    border-radius: 5px;
+}
 
