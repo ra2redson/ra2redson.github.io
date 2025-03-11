@@ -1,6 +1,6 @@
 /* Gradient rõ ràng hơn, giúp dễ nhìn */
 .md-header {
-    background: linear-gradient(90deg, #ff6a3a, #ffa500) !important;
+    background: linear-gradient(90deg, #d2691e, #ff8c00); /* Nâu đất sang cam đậm */
     color: #ffffff !important;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -8,7 +8,7 @@
 
 /* Gradient ngược lại cho tab */
 .md-tabs {
-    background: linear-gradient(90deg, #ffa500, #ff6a3a) !important;
+    background: linear-gradient(90deg, #ff8c00, #d2691e); /* Nâu đất sang cam đậm */
     color: #ffffff !important;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
