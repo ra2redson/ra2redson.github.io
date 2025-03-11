@@ -14,17 +14,10 @@
 /* Áp dụng ảnh nền cho html */
 }
 
-.md-sidebar {
+nav.md-nav,
+label#_nav_1_label.md-nav__link {
     background-color: rgba(0, 0, 0, 0.05); /* Màu xám nhẹ */
-    border-radius: 10px; /* Bo góc nhẹ */
-    padding: 10px; /* Khoảng cách bên trong */
-    margin: 10px; /* Khoảng cách bên ngoài */
-    min-height: 100vh; /* Kéo dài hết màn hình */
+    border-radius: 8px; /* Bo góc nhẹ */
+    padding: 4px 8px; /* Tạo khoảng cách nếu cần */
 }
 
-/* Sửa header trong sidebar */
-.md-sidebar h2 {
-    background: none; /* Loại bỏ nền trắng hoặc hiệu ứng mờ */
-    padding: 8px; /* Khoảng cách cho đẹp */
-    border-radius: 8px; /* Bo góc */
-}
