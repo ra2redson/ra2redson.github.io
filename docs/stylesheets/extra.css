@@ -1,1 +1,5 @@
-
+/* Đặt hình nền cho thanh điều hướng (navbar) */
+.md-header {
+  background: url("../navbar.png") no-repeat center center;
+  background-size: cover;
+}
