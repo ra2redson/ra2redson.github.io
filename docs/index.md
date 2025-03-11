@@ -26,19 +26,26 @@ Bản mod này bắt nguồn ý tưởng từ mod **Expandables**, nhưng đã �
 
 Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng** và chinh phục chiến trường **RA2 SuperHero** chưa? 🚀
 
-👉 **Tải ngay & trải nghiệm!**
+<div align="center">
+    👉 <b>Tải ngay & trải nghiệm!</b>  
 
-Phiên Bản Cài Đặt EXE
+    <br><br>
 
-<a href="link_tải_game" class="download-btn green-btn">
-    <span>⬇ RA2SH.EXE</span>
-</a>
+    <b>Phiên Bản Cài Đặt EXE</b>  
+    <br>
+    <a href="link_tải_game" class="download-btn green-btn">
+        <span>⬇ RA2SH.EXE</span>
+    </a>
 
-Phiên Bản Giải Nén ZIP
+    <br><br>
 
-<a href="link_tải_game" class="download-btn orange-btn">
-    <span>⬇ RA2SH.ZIP</span>
-</a>
+    <b>Phiên Bản Giải Nén ZIP</b>  
+    <br>
+    <a href="link_tải_game" class="download-btn orange-btn">
+        <span>⬇ RA2SH.ZIP</span>
+    </a>
+</div>
+
 
 <style>
   /* CSS chung cho nút */
