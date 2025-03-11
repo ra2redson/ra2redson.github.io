@@ -14,9 +14,10 @@
 /* Áp dụng ảnh nền cho html */
 }
 
-.md-nav__item {
-    background-color: rgba(0, 0, 0, 0.05);
-    border-radius: 5px;
-    padding: 5px;
-    margin-bottom: 5px;
+.md-sidebar {
+    background-color: rgba(0, 0, 0, 0.05); /* Màu nền xám nhẹ */
+    border-radius: 10px; /* Bo góc cho đẹp */
+    padding: 10px; /* Khoảng cách bên trong */
+    margin: 10px; /* Khoảng cách với các phần khác */
+    min-height: 100vh; /* Chiều cao full màn hình */
 }
