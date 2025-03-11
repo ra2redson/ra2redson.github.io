@@ -12,9 +12,11 @@
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 /* Áp dụng ảnh nền cho html */
-}
 label#__nav_1_label {
-    display: none !important;
+    background-color: #f0f0f0 !important; /* Màu xám nhạt */
+    color: #888 !important; /* Màu chữ xám nhạt */
+    padding: 10px !important; /* Thêm khoảng cách nếu cần */
+    border-radius: 5px; /* Bo góc nhẹ */
 }
 
 div.md-sidebar__inner {
