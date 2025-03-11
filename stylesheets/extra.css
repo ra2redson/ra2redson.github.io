@@ -14,3 +14,10 @@
 /* Áp dụng ảnh nền cho html */
 }
 
+/* Thêm dấu "|" giữa hai tab */
+.md-tabs__list li + li::before {
+    content: "|";
+    margin: 0 12px;
+    color: white; /* Điều chỉnh màu theo thiết kế */
+    font-weight: bold;
+}
