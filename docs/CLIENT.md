@@ -32,3 +32,67 @@
 16. **AUTO REPAIR**: BẬT TẮT TỰ ĐỘNG SỬA NHÀ
 17. **AUTO DEL UNITS**: TỰ ĐỘNG XÓA ĐƠN VỊ NẰM XUNG QUANH NHÀ CHÍNH SAU 1 THỜI GIAN CHỈ ĐỊNH
 18. **AI USE SWS**: CHO PHÉP AI DÙNG LOẠI SIÊU VŨ KHÍ NÀO (CHÍNH, PHỤ, KHÔNG)
+<br><br>  <!-- Thêm khoảng trống -->
+
+<span style="font-size: 24px; font-weight: bold;">HIỆU ỨNG MƯA</span>
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/mua2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br><br>  <!-- Thêm khoảng trống -->
+
+<span style="font-size: 24px; font-weight: bold;">HIỆU ỨNG BÃO</span>
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/bao2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br><br>  <!-- Thêm khoảng trống -->
+
+<span style="font-size: 24px; font-weight: bold;">HIỆU ỮNG TUYẾT</span>
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/tuyet2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br><br>  <!-- Thêm khoảng trống -->
+
+<span style="font-size: 24px; font-weight: bold;">HIỆU ỨNG BÃO TUYẾT</span>
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/baotuyet2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br><br>  <!-- Thêm khoảng trống -->
+
+<span style="font-size: 24px; font-weight: bold;">HIỆU ỨNG BÃO CÁT</span>
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/baocat2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br><br>  <!-- Thêm khoảng trống -->
+
+<span style="font-size: 24px; font-weight: bold;">HỪNG ĐÔNG</span>
+<div style="text-align: center;">
+  <img src="/videos/sang.png" alt="Hình ảnh sáng" style="max-width: 100%; width: 500px;">
+</div>
+
+<br><br>  <!-- Thêm khoảng trống -->
+
+<span style="font-size: 24px; font-weight: bold;">CHẠNG VẠNG</span>
+<div style="text-align: center;">
+  <img src="/videos/toi.png" alt="Hình ảnh tối" style="max-width: 100%; width: 500px;">
+</div>
+<br><br>  <!-- Thêm khoảng trống -->
