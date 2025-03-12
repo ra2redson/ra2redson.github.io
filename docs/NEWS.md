@@ -23,6 +23,8 @@
 - *Game được chạy trên Client CNC MOD Base, có thể chơi Online, Offline LAN, có nhiều Option tuỳ chỉnh mới.*
 
 - *Bổ sung 150 MAP mới*
+
+- *Client có thể tuỳ chỉnh các hiệu ứng thời tiết như mưa, bão, tuyết, bão tuyết, bão cát, thời gian sáng & tối trước khi vô trận.*
   
 - *Cùng một số tinh chỉnh khác...*
 
