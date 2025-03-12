@@ -50,6 +50,7 @@ extra:
       link: /eng/
       lang: en
       class: lang-switch
+  favicon: assets/favicon.ico
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
