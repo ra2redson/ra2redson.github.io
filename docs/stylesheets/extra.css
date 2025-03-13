@@ -21,12 +21,11 @@
   .md-container:before {
     content: '';
     position: absolute;
-    top: 9.6rem; /* 4.8rem if you don't use tabs */
+    top: 8rem; /* Điều chỉnh lại để khớp với menu */
     left: 0;
-    width: calc((100% - 122rem) / 2 + 24.2rem); /* you can use something smaller than 24.2rem and background won't be that close to main content */
-    height: calc(100% - 25.2rem); /* 100% - 20.4rem if you don't use tabs */
+    width: calc((100% - 120rem) / 2 + 22rem); /* Giảm bớt kích thước để không quá rộng */
+    height: calc(100% - 22rem); /* Điều chỉnh để khung không bị lệch */
     background-color: #eee;
     z-index: -1;
-    /* add border if you want */
   }
 }
