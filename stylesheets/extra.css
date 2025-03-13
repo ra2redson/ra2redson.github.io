@@ -21,10 +21,10 @@
   .md-container:before {
     content: '';
     position: absolute;
-    top: 8rem; /* Điều chỉnh lại để khớp với menu */
+    top: 9.6rem; /* Điều chỉnh nếu cần */
     left: 0;
-    width: calc((100% - 120rem) / 2 + 22rem); /* Giảm bớt kích thước để không quá rộng */
-    height: calc(100% - 22rem); /* Điều chỉnh để khung không bị lệch */
+    width: var(--md-sidebar-width, 30rem); /* Dùng giá trị sidebar mặc định */
+    height: 100vh; /* Bao phủ toàn bộ chiều cao */
     background-color: #eee;
     z-index: -1;
   }
