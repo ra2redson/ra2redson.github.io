@@ -19,7 +19,7 @@ Không chỉ là một chiến binh hay một chúa tể – **Thanos là hiện
 - **Búng Tay ✨💀**: *Khi các viên đá Vô Cực hợp nhất, một cú búng tay **có thể thay đổi số phận cả vũ trụ**, xóa sổ mọi kẻ thù trong nháy mắt.*
 
 Hắn không giết vì thú vui – hắn giết để **cân bằng vũ trụ**.
-
+<br><br><br>  <!-- Thêm khoảng trống -->
 
 **Doctor Strange Prime** – Bậc Thầy Phép Thuật Tối Thượng
 
@@ -44,7 +44,7 @@ Doctor Strange Prime vẽ một vòng tròn năng lượng ma thuật trên mặ
 </div>
 🟣 **2. Hố Vô Tận**  
 Doctor Strange Prime phóng ra một tia ma thuật đặc biệt. Kẻ địch trúng phải sẽ bị bao bọc trong năng lượng hư không và biến mất khỏi chiến trường, như thể chưa từng tồn tại.
-
+<br><br><br>  <!-- Thêm khoảng trống -->
 
 **Zed – Sát Thủ Bóng Tối** (CHỈ KHẢ DỤNG KHI NHẶT THÙNG, KHÔNG Ở BẤT KỲ NƯỚC NÀO)
 
