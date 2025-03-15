@@ -1,3 +1,5 @@
+*Lưu ý : EpicUnit chỉ khả dụng khi dùng Spy thâm nhập vào battle lab đối phương, khi đó sẽ mở khoá được toà nhà TechLab, có thể mua epic unit của phe vừa thâm nhập*
+
 **Emperor Tank – Cỗ Máy Chiến Tranh Bất Khả Chiến Bại**
 
 Một cỗ xe tăng **khổng lồ**, được thiết kế như một **pháo đài di động**, với hỏa lực vượt trội và lớp giáp **dày như thành trì**. Emperor Tank không chỉ mạnh – nó là **bất khả xâm phạm**.
