@@ -1,3 +1,5 @@
+*Lưu ý : EpicUnit chỉ khả dụng khi dùng Spy thâm nhập vào battle lab đối phương, khi đó sẽ mở khoá được toà nhà TechLab, có thể mua epic unit của phe vừa thâm nhập*
+
 **Shenlong – Pháo Đài Rồng Thần** (TRUNG QUỐC)
 
 Một pháo đài bay **mang hình dáng rồng**, Shenlong **tung hoành trên bầu trời như một vị thần**, giáng xuống mặt đất những đòn tấn công hủy diệt mạnh mẽ.
