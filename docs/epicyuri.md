@@ -1,3 +1,5 @@
+*Lưu ý : EpicUnit chỉ khả dụng khi dùng Spy thâm nhập vào battle lab đối phương, khi đó sẽ mở khoá được toà nhà TechLab, có thể mua epic unit của phe vừa thâm nhập*
+
 **Tripod – Cỗ Máy Tam Chân Sát Thủ**
 
 Một cỗ máy **tử thần ba chân**, sở hữu công nghệ chiến tranh **tối tân**, có thể tấn công **trên không và mặt đất cùng lúc**. Khi Tripod xuất hiện, **chiến trường không còn nơi nào an toàn**.
