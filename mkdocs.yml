@@ -2,44 +2,44 @@ site_name: RA2SuperHero Redson
 nav:
   - Skirmish Version:
     - Giới Thiệu: index.md
-    - Có gì mới ?: NEWS.md
+    - Có gì mới ?: news.md
     - Siêu Anh Hùng:
-      - Phe Đồng Minh: HEROALLIED.md
-      - Phe Soviet: HEROSOVIET.md
-      - Phe Yuri: HEROYURI.md
-      - Phe Asian: HEROASIAN.md
-      - Đặc Biệt: HEROSPECIAL.md
+      - Phe Đồng Minh: heroallied.md
+      - Phe Soviet: herosoviet.md
+      - Phe Yuri: heroyuri.md
+      - Phe Asian: heroasian.md
+      - Đặc Biệt: herospecial.md
     - Siêu Người Máy:
-      - Phe Đồng Minh: EPICALLIED.md
-      - Phe Soviet: EPICSOVIET.md
-      - Phe Yuri: EPICYURI.md
-      - Phe Asian: EPICASIAN.md
-    - Trụ Siêu Cấp: SOLAMER.md
-    - Siêu Vũ Khí Chính: SW.md
-    - Siêu Vũ Khí Phụ: SWMINI.md
-    - Đỉnh Olympus: Olympus.md
-    - Hướng Dẫn Client: CLIENT.md
-    - Thông Tin Tác Giả: INFO.md
+      - Phe Đồng Minh: epicallied.md
+      - Phe Soviet: epicsoviet.md
+      - Phe Yuri: epicyuri.md
+      - Phe Asian: epicasian.md
+    - Trụ Siêu Cấp: solamer.md
+    - Siêu Vũ Khí Chính: sw.md
+    - Siêu Vũ Khí Phụ: swmini.md
+    - Đỉnh Olympus: olympus.md
+    - Hướng Dẫn Client: client.md
+    - Thông Tin Tác Giả: info.md
     - Youtube: https://www.youtube.com/@mr.solobdu
-    - DONATE: DONATE.md
+    - DONATE: donate.md
   - Campaign Version:
     - Giới Thiệu: index2.md
-    - Có gì mới ?: NEWS2.md
+    - Có gì mới ?: news2.md
     - Hướng Dẫn Chiến Dịch:
-      - Gốc Đồng Minh: MSORGINALAL.md
-      - Gốc Soviet: MSORGINALSV.md
-      - Tái Khởi Động Đồng Minh: MSREALLIED.md
-      - Tái Khởi Động Soviet: MSRESOVIET.md
-      - Gốc Yuri (Đồng Minh): MSORGINALYRAL.md
-      - Gốc Yuri (Soviet): MSORGINALYRSV.md
-      - Yuri Báo Thù: MSYURIRE.md
-      - Lúc Bình Minh: MSALERTDAWN.md
-      - Lúc Hừng Đông: MSALERTSUN.md
-      - Soviet Mở Rộng: MSNEWSOVIET.md
-      - Yuri Mở Rộng: MSNEWYURI.md
-    - Thông Tin Tác Giả: INFO2.md
+      - Gốc Đồng Minh: msorginalal.md
+      - Gốc Soviet: msorginalsv.md
+      - Tái Khởi Động Đồng Minh: msreallied.md
+      - Tái Khởi Động Soviet: msresoviet.md
+      - Gốc Yuri (Đồng Minh): msorginalyral.md
+      - Gốc Yuri (Soviet): msorginalyrsv.md
+      - Yuri Báo Thù: msyurire.md
+      - Lúc Bình Minh: msalertdawn.md
+      - Lúc Hừng Đông: msalertsun.md
+      - Soviet Mở Rộng: msnewsoviet.md
+      - Yuri Mở Rộng: msnewyuri.md
+    - Thông Tin Tác Giả: info2.md
     - Youtube: https://www.youtube.com/@mr.solobdu
-    - DONATE: DONATE2.md
+    - DONATE: donate2.md
 extra:
   alternate:
     - name: 🇻🇳 Tiếng Việt
