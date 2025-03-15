@@ -30,7 +30,7 @@ Khi Doctor Strange đạt đến đỉnh cao sức mạnh, ông không còn là 
 **Kỹ năng**
 <div style="text-align: center;">
   <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
-    <source src="/videos/zed1.mp4" type="video/mp4">
+    <source src="/videos/drnewa.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -38,7 +38,7 @@ Khi Doctor Strange đạt đến đỉnh cao sức mạnh, ông không còn là 
 Doctor Strange Prime vẽ một vòng tròn năng lượng ma thuật trên mặt đất. Sau vài giây, vòng tròn phát nổ, tạo ra một vụ chấn động mạnh, gây sát thương diện rộng lên tất cả kẻ địch trong vùng ảnh hưởng.
 <div style="text-align: center;">
   <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
-    <source src="/videos/zed1.mp4" type="video/mp4">
+    <source src="/videos/drnewb.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
