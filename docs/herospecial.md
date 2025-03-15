@@ -21,6 +21,30 @@ Không chỉ là một chiến binh hay một chúa tể – **Thanos là hiện
 Hắn không giết vì thú vui – hắn giết để **cân bằng vũ trụ**.
 
 
+**Doctor Strange Prime** – Bậc Thầy Phép Thuật Tối Thượng
+
+(Nâng cấp bằng thẻ bài khi mua nhà lính cấp 2)
+
+Khi Doctor Strange đạt đến đỉnh cao sức mạnh, ông không còn là một pháp sư đơn thuần – ông trở thành **Doctor Strange Prime**. Với sự kết hợp giữa tri thức huyền bí và sức mạnh tối thượng, phiên bản này sở hữu phép thuật mạnh mẽ hơn gấp bội, có thể thay đổi cả chiến trường chỉ bằng một cái vung tay.
+
+**Kỹ năng**
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/zed1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+🔵 **1. Ma Trận Hủy Diệt**  
+Doctor Strange Prime vẽ một vòng tròn năng lượng ma thuật trên mặt đất. Sau vài giây, vòng tròn phát nổ, tạo ra một vụ chấn động mạnh, gây sát thương diện rộng lên tất cả kẻ địch trong vùng ảnh hưởng.
+<div style="text-align: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%; width: 500px;">
+    <source src="/videos/zed1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+🟣 **2. Hố Vô Tận**  
+Doctor Strange Prime phóng ra một tia ma thuật đặc biệt. Kẻ địch trúng phải sẽ bị bao bọc trong năng lượng hư không và biến mất khỏi chiến trường, như thể chưa từng tồn tại.
+
 
 **Zed – Sát Thủ Bóng Tối** (CHỈ KHẢ DỤNG KHI NHẶT THÙNG, KHÔNG Ở BẤT KỲ NƯỚC NÀO)
 
