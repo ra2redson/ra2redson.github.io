@@ -1,3 +1,5 @@
+*Lưu ý : EpicUnit chỉ khả dụng khi dùng Spy thâm nhập vào battle lab đối phương, khi đó sẽ mở khoá được toà nhà TechLab, có thể mua epic unit của phe vừa thâm nhập*
+
 **Redeemer – Cỗ Máy Tận Diệt**
 
 Một siêu người máy chiến đấu với **hỏa lực vượt trội**, được thiết kế để **tiêu diệt mọi mối đe dọa từ mặt đất đến trên không**. Redeemer là hiện thân của sự hủy diệt **không khoan nhượng**.
