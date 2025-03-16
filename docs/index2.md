@@ -63,15 +63,3 @@ Bạn không còn đơn độc! Các nhiệm vụ giờ đây có sự xuất hi
     filter: brightness(1.1);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
   }
-
-  /* Nút màu cam */
-  .orange-btn {
-    background-color: #e5893a; /* Cam đậm hơn */
-  }
-
-  .orange-btn:hover {
-    background-color: #d46a1f; /* Đậm hơn khi hover */
-    filter: brightness(1.1);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
-  }
-</style>
