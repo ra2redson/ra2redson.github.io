@@ -28,14 +28,6 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
 
 👉 **Tải ngay & trải nghiệm!**
 
-Phiên Bản Cài Đặt EXE
-
-<a href="link_tải_game" class="download-btn green-btn">
-    <span>⬇ RA2SH.exe </span>
-</a>
-
-Phiên Bản Giải Nén ZIP
-
 <a href="link_tải_game" class="download-btn orange-btn">
     <span>⬇ RA2SH.zip </span>
 </a>
