@@ -28,7 +28,7 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
 
 👉 **Tải ngay & trải nghiệm!**
 
-<a href="link_tải_game" class="download-btn orange-btn">
+<a href="https://drive.google.com/file/d/1D3Kfx6Q3pcjBhIuPDfxnYOGGGX9NH0tJ/view?usp=sharing" class="download-btn orange-btn">
     <span>⬇ RA2SH.zip </span>
 </a>
 
