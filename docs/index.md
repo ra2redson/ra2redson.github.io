@@ -73,3 +73,9 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
   }
 </style>
 
+✨ **Hướng Dẫn Cài Đặt**
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/C0XdNDQHggc?si=HNrhH527rZHkQnfy" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
