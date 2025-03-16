@@ -32,7 +32,7 @@ Bạn không còn đơn độc! Các nhiệm vụ giờ đây có sự xuất hi
 
 👉 **Tải ngay & trải nghiệm!**
 
-<a href="https://drive.google.com/file/d/1jmx_zhWvoygXIjPfYOCHl-9Ey0E8oWwx/view?usp=sharing" class="download-btn orange-btn">
+<a href="https://drive.google.com/file/d/1jmx_zhWvoygXIjPfYOCHl-9Ey0E8oWwx/view?usp=sharing" target="_blank" class="download-btn orange-btn">
     <span>⬇ RA2SHC.zip </span>
 </a>
 
