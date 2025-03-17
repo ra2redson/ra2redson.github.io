@@ -32,6 +32,11 @@ Bạn đã sẵn sàng bước vào **cuộc chiến của các siêu anh hùng*
     <span>⬇ RA2SH.zip </span>
 </a>
 
+**Link Dự Phòng**
+
+<a href="https://direct-link.net/1320607/ra2sh-redson-20" class="download-btn green-btn">
+    <span>⬇ RA2SH.zip </span>
+</a>
 
 <style>
   /* CSS chung cho nút */
