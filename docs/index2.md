@@ -36,6 +36,12 @@ Bạn không còn đơn độc! Các nhiệm vụ giờ đây có sự xuất hi
     <span>⬇ RA2SHC.zip </span>
 </a>
 
+**Link Dự Phòng**
+
+<a href="https://link-hub.net/1320607/ra2sh-redson-campain" target="_blank" class="download-btn orange-btn">
+    <span>⬇ RA2SHC.zip </span>
+</a>
+
 ✨ **Hướng Dẫn Cài Đặt**
 
 <div style="text-align: center;">
